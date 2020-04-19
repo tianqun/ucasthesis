@@ -1,0 +1,151 @@
+\begin{thebibliography}{21}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{#1}
+\expandafter\ifx\csname urlstyle\endcsname\relax\relax\else
+  \urlstyle{same}\fi
+\providecommand{\href}[2]{\url{#2}}
+\providecommand{\doi}[1]{\href{https://doi.org/#1}{#1}}
+
+\bibitem[{Baule {\biband} Shulski(2014)Baule and
+  Shulski}]{baule2014climatology}
+BAULE~W~J, SHULSKI~M~D.
+\newblock Climatology and trends of wind speed in the beaufort/chukchi sea
+  coastal region from 1979 to 2009\allowbreak[J].
+\newblock International journal of climatology, 2014, 34\penalty0 (8):\penalty0
+  2819-2833.
+
+\bibitem[{Caesar {\bibetal}(2006)Caesar, Alexander, and
+  Vose}]{caesar2006large-scale}
+CAESAR~J, ALEXANDER~L~V, VOSE~R~S.
+\newblock Large-scale changes in observed daily maximum and minimum
+  temperatures: Creation and analysis of a new gridded data set\allowbreak[J].
+\newblock Journal of Geophysical Research, 2006, 111.
+
+\bibitem[{Gaffen {\bibetal}(2000)Gaffen, Santer, Boyle, Christy, Graham, and
+  Ross}]{gaffen2000multidecadal}
+GAFFEN~D~J, SANTER~B~D, BOYLE~J~S, et~al.
+\newblock Multidecadal changes in the vertical temperature structure of the
+  tropical troposphere\allowbreak[J].
+\newblock Science, 2000, 287\penalty0 (5456):\penalty0 1242-1245.
+
+\bibitem[{Guo {\bibetal}(2011)Guo, Xu, and Hu}]{guo2011changes}
+GUO~H, XU~M, HU~Q.
+\newblock Changes in near-surface wind speed in china:
+  1969--2005\allowbreak[J].
+\newblock International Journal of Climatology, 2011, 31\penalty0 (3):\penalty0
+  349-358.
+
+\bibitem[{Holton(2004)}]{J2004An}
+HOLTON~J~R.
+\newblock An introduction to dynamic meteorology (4th ed.)\allowbreak[M].
+\newblock Elsevier Academic Press, MA, 2004.
+
+\bibitem[{Kalnay {\biband} Cai(2003)Kalnay and Cai}]{kalnay2003impact}
+KALNAY~E, CAI~M.
+\newblock Impact of urbanization and land-use change on climate\allowbreak[J].
+\newblock Nature, 2003, 423\penalty0 (6939):\penalty0 528-531.
+
+\bibitem[{Skamarock {\bibetal}(2019)Skamarock, Klemp,
+  et~al.}]{skamarock2019description}
+SKAMAROCK~W, KLEMP~J, et~al.
+\newblock A description of the advanced research wrf model version 4. ncar
+  technical notes.\allowbreak[R].
+\newblock NCAR, 2019.
+
+\bibitem[{Sullamenashe {\bibetal}(2019)Sullamenashe, Gray, Abercrombie, and
+  Friedl}]{sullamenashe2019hierarchical}
+SULLAMENASHE~D, GRAY~J~M, ABERCROMBIE~S~P, et~al.
+\newblock Hierarchical mapping of annual global land cover 2001 to present: The
+  modis collection 6 land cover product\allowbreak[J].
+\newblock Remote Sensing of Environment, 2019, 222:\penalty0 183-194.
+
+\bibitem[{Thorne {\bibetal}(2005)Thorne, Parker, Tett, Jones, Mccarthy,
+  Coleman, and Brohan}]{thorne2005revisiting}
+THORNE~P, PARKER~D~E, TETT~S~F~B, et~al.
+\newblock Revisiting radiosonde upper air temperatures from 1958 to
+  2002\allowbreak[J].
+\newblock Journal of Geophysical Research, 2005, 110.
+
+\bibitem[{Vautard {\bibetal}(2010)Vautard, Cattiaux, Yiou, Th{\'e}paut, and
+  Ciais}]{vautard2010northern}
+VAUTARD~R, CATTIAUX~J, YIOU~P, et~al.
+\newblock Northern hemisphere atmospheric stilling partly attributed to an
+  increase in surface roughness\allowbreak[J].
+\newblock Nature geoscience, 2010, 3\penalty0 (11):\penalty0 756-761.
+
+\bibitem[{Vincent {\bibetal}(2012)Vincent, Wang, Milewska, Wan, Yang, and
+  Swail}]{vincent2012second}
+VINCENT~L~A, WANG~X~L, MILEWSKA~E~J, et~al.
+\newblock A second generation of homogenized canadian monthly surface air
+  temperature for climate trend analysis\allowbreak[J].
+\newblock Journal of Geophysical Research: Atmospheres, 2012, 117\penalty0
+  (D18).
+
+\bibitem[{Wang(2008)}]{wang2008penalized}
+WANG~X~L.
+\newblock Penalized maximal f test for detecting undocumented mean shift
+  without trend change\allowbreak[J].
+\newblock Journal of Atmospheric and Oceanic Technology, 2008, 25\penalty0
+  (3):\penalty0 368-384.
+
+\bibitem[{Wang {\bibetal}(2007)Wang, Wen, and Wu}]{wang2007penalized}
+WANG~X~L, WEN~Q~H, WU~Y.
+\newblock Penalized maximal t test for detecting undocumented mean change in
+  climate data series\allowbreak[J].
+\newblock Journal of Applied Meteorology and Climatology, 2007, 46\penalty0
+  (6):\penalty0 916-931.
+
+\bibitem[{Wang {\bibetal}(2010)Wang, Chen, Wu, Feng, and Pu}]{wang2010new}
+WANG~X~L, CHEN~H, WU~Y, et~al.
+\newblock New techniques for the detection and adjustment of shifts in daily
+  precipitation data series\allowbreak[J].
+\newblock Journal of Applied Meteorology and Climatology, 2010, 49\penalty0
+  (12):\penalty0 2416-2436.
+
+\bibitem[{Wang {\biband} Feng(2014)Wang and Feng}]{wang2014rhtests}
+WANG~X, FENG~Y.
+\newblock Rhtests v4 user manual\allowbreak[Z].
+\newblock Climate Research Division, Science and Technology Branch, Environment
+  Canada, 2014.
+
+\bibitem[{Wu {\bibetal}(2016)Wu, Zha, and Zhao}]{wu2016estimating}
+WU~J, ZHA~J, ZHAO~D.
+\newblock Estimating the impact of the changes in land use and cover on the
+  surface wind speed over the east china plain during the period
+  1980–2011\allowbreak[J].
+\newblock Climate Dynamics, 2016, 46\penalty0 (3):\penalty0 847-863.
+
+\bibitem[{Yang {\bibetal}(2019)Yang, Wang, and Wild}]{yang2019causes}
+YANG~S, WANG~X~L, WILD~M.
+\newblock Causes of dimming and brightening in china inferred from homogenized
+  daily clear-sky and all-sky in situ surface solar radiation records
+  (1958--2016)\allowbreak[J].
+\newblock Journal of Climate, 2019, 32\penalty0 (18):\penalty0 5901-5913.
+
+\bibitem[{Yu {\bibetal}(2015)Yu, Sun, Chen, and Xiang}]{yu2015evaluation}
+YU~E, SUN~J, CHEN~H, et~al.
+\newblock Evaluation of a high-resolution historical simulation over china:
+  climatology and extremes\allowbreak[J].
+\newblock Climate Dynamics, 2015, 45\penalty0 (7):\penalty0 2013-2031.
+
+\bibitem[{Zha {\bibetal}(2017)Zha, Wu, and Zhao}]{zha2017effects}
+ZHA~J, WU~J, ZHAO~D.
+\newblock Effects of land use and cover change on the near-surface wind speed
+  over china in the last 30 years\allowbreak[J].
+\newblock Progress in Physical Geography, 2017, 41\penalty0 (1):\penalty0
+  0309133316663097.
+
+\bibitem[{Zha {\bibetal}(2019)Zha, Zhao, Wu, and Zhang}]{zha2019numerical}
+ZHA~J, ZHAO~D, WU~J, et~al.
+\newblock Numerical simulation of the effects of land use and cover change on
+  the near-surface wind speed over eastern china\allowbreak[J].
+\newblock Climate Dynamics, 2019, 53\penalty0 (3-4):\penalty0 1783-1803.
+
+\bibitem[{Zhang {\bibetal}(2010)Zhang, Gao, Wang, and Chen}]{zhang2010modeling}
+ZHANG~N, GAO~Z, WANG~X, et~al.
+\newblock Modeling the impact of urbanization on the local and regional climate
+  in yangtze river delta, china\allowbreak[J].
+\newblock Theoretical and Applied Climatology, 2010, 102\penalty0 (3):\penalty0
+  331-342.
+
+\end{thebibliography}

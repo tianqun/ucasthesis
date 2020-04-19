@@ -1,0 +1,18 @@
+\contentsline {chapter}{\numberline {第1章\hspace {.3em}}大气运动阻力变化对陆地地表风速长期变化的影响}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}引言}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}资料和方法}{2}{section.1.2}
+\contentsline {section}{\numberline {1.3}城市化的影响}{4}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}基于城市动态变化和风速观测数据的统计学分析}{4}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {1.3.2}数值试验}{7}{subsection.1.3.2}
+\contentsline {section}{\numberline {1.4}植被变化的影响}{12}{section.1.4}
+\contentsline {subsection}{\numberline {1.4.1}基于NDVI和风速观测数据的统计学分析}{12}{subsection.1.4.1}
+\contentsline {subsection}{\numberline {1.4.2}数值试验}{14}{subsection.1.4.2}
+\contentsline {section}{\numberline {1.5}大气稳定度变化的影响}{18}{section.1.5}
+\contentsline {section}{\numberline {1.6}本章小结}{18}{section.1.6}
+\contentsline {chapter}{\numberline {附录 A\hspace {.3em}}中国科学院大学学位论文撰写要求}{21}{appendix.A}
+\contentsline {section}{\numberline {A.1}论文无附录者无需附录部分}{21}{section.A.1}
+\contentsline {section}{\numberline {A.2}测试公式编号 $\Lambda ,\lambda ,\theta ,\mathaccentV {bar}B16{\Lambda },\sqrt {S_{NN}}$}{21}{section.A.2}
+\contentsline {section}{\numberline {A.3}测试生僻字}{22}{section.A.3}
+\contentsline {chapter}{参考文献}{23}{section*.37}
+\contentsline {chapter}{作者简历及攻读学位期间发表的学术论文与研究成果}{25}{appendix*.39}
+\contentsline {chapter}{致谢}{27}{appendix*.46}
