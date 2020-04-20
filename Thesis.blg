@@ -5,44 +5,48 @@ The style file: Biblio/gbt7714-plain.bst
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Database file #1: Biblio/ref.bib
-You've used 21 entries,
+Warning--empty key in 张人文2011珠江三角洲风场对空气质量的影响
+Warning--empty key in 刘学锋2012台站观测环境改变对我国近地面风速观测资料序列的影响
+Warning--empty key in 任雪娟2007北太平洋风暴轴的变异特征及其与中纬度海气耦合关系分析
+You've used 112 entries,
             4429 wiz_defined-function locations,
-            1057 strings with 10852 characters,
-and the built_in function-call counts, 131352 in all, are:
-= -- 1734
-> -- 15552
-< -- 20104
-+ -- 5481
-- -- 237
-* -- 1083
-:= -- 18037
-add.period$ -- 63
-call.type$ -- 21
-change.case$ -- 191
-chr.to.int$ -- 4974
-cite$ -- 42
-duplicate$ -- 481
-empty$ -- 1175
-format.name$ -- 445
-if$ -- 33857
-int.to.chr$ -- 1
+            1523 strings with 31253 characters,
+and the built_in function-call counts, 837098 in all, are:
+= -- 10016
+> -- 100545
+< -- 129802
++ -- 35472
+- -- 1619
+* -- 6532
+:= -- 115255
+add.period$ -- 336
+call.type$ -- 112
+change.case$ -- 1169
+chr.to.int$ -- 32265
+cite$ -- 227
+duplicate$ -- 2563
+empty$ -- 6121
+format.name$ -- 2905
+if$ -- 215075
+int.to.chr$ -- 3
 int.to.str$ -- 1
 missing$ -- 0
-newline$ -- 114
-num.names$ -- 102
-pop$ -- 7077
+newline$ -- 569
+num.names$ -- 546
+pop$ -- 45508
 preamble$ -- 1
-purify$ -- 115
+purify$ -- 772
 quote$ -- 0
-skip$ -- 13699
+skip$ -- 87462
 stack$ -- 0
-substring$ -- 5559
-swap$ -- 44
-text.length$ -- 198
+substring$ -- 35401
+swap$ -- 251
+text.length$ -- 1224
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 345
-warning$ -- 0
-while$ -- 290
+type$ -- 1864
+warning$ -- 3
+while$ -- 1734
 width$ -- 0
-write$ -- 329
+write$ -- 1745
+(There were 3 warnings)

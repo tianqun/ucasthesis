@@ -1,10 +1,67 @@
-\begin{thebibliography}{21}
+\begin{thebibliography}{112}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{#1}
 \expandafter\ifx\csname urlstyle\endcsname\relax\relax\else
   \urlstyle{same}\fi
 \providecommand{\href}[2]{\url{#2}}
 \providecommand{\doi}[1]{\href{https://doi.org/#1}{#1}}
+
+\bibitem[{任雪娟\ 等(2007)任雪娟, 杨修群, 韩博, and
+  徐桂玉}]{任雪娟2007北太平洋风暴轴的变异特征及其与中纬度海气耦合关系分析}
+任雪娟, 杨修群, 韩博, 等.
+\newblock
+  北太平洋风暴轴的变异特征及其与中纬度海气耦合关系分析\allowbreak[J].
+\newblock 地球物理学报, 2007\penalty0 (01):\penalty0 96-104.
+
+\bibitem[{刘学锋\ 等(2012)刘学锋, 梁秀慧, 任国玉, and
+  任芝花}]{刘学锋2012台站观测环境改变对我国近地面风速观测资料序列的影响}
+刘学锋, 梁秀慧, 任国玉, 等.
+\newblock
+  台站观测环境改变对我国近地面风速观测资料序列的影响\allowbreak[J].
+\newblock 高原气象, 2012, 31\penalty0 (6):\penalty0 1645r1652.
+
+\bibitem[{张人文\ 等(2011)张人文 and
+  范绍佳}]{张人文2011珠江三角洲风场对空气质量的影响}
+张人文, 范绍佳.
+\newblock 珠江三角洲风场对空气质量的影响\allowbreak[J].
+\newblock 中山大学学报自然科学版, 2011, 50\penalty0 (6):\penalty0
+  130-134.
+
+\bibitem[{Allan {\biband} Ansell(2006)Allan and Ansell}]{allan2006a}
+ALLAN~R, ANSELL~T.
+\newblock A new globally complete monthly historical gridded mean sea level
+  pressure dataset (hadslp2): 1850–2004\allowbreak[J].
+\newblock Journal of Climate, 2006, 19\penalty0 (22):\penalty0 5816-5842.
+
+\bibitem[{Archer {\biband} Jacobson(2005)Archer and
+  Jacobson}]{archer2005evaluation}
+ARCHER~C~L, JACOBSON~M~Z.
+\newblock Evaluation of global wind power\allowbreak[J].
+\newblock Journal of Geophysical Research: Atmospheres, 2005, 110\penalty0
+  (D12).
+
+\bibitem[{Arora {\bibetal}(2011)Arora, Scinocca, Boer, Christian, Denman,
+  Flato, Kharin, Lee, and Merryfield}]{arora2011carbon}
+ARORA~V~K, SCINOCCA~J, BOER~G~J, et~al.
+\newblock Carbon emission limits required to satisfy future representative
+  concentration pathways of greenhouse gases\allowbreak[J].
+\newblock Geophysical Research Letters, 2011, 38\penalty0 (5).
+
+\bibitem[{Azorinmolina {\bibetal}(2014)Azorinmolina, Vicenteserrano, Mcvicar,
+  Jerez, Sanchezlorenzo, Revuelto, Trigo, Lopezbustins, and
+  Land}]{azorinmolina2014homogenization}
+AZORINMOLINA~C, VICENTESERRANO~S~M, MCVICAR~T~R, et~al.
+\newblock Homogenization and assessment of observed near-surface wind speed
+  trends over spain and portugal, 1961–2011*\allowbreak[J].
+\newblock Journal of Climate, 2014, 27\penalty0 (10):\penalty0 3692-3712.
+
+\bibitem[{Bao {\bibetal}(2013)Bao, Lin, Zhou, Liu, Yu, Wu, He, He, Li, Li,
+  et~al.}]{bao2013flexible}
+BAO~Q, LIN~P, ZHOU~T, et~al.
+\newblock The flexible global ocean-atmosphere-land system model, spectral
+  version 2: Fgoals-s2\allowbreak[J].
+\newblock Advances in Atmospheric Sciences, 2013, 30\penalty0 (3):\penalty0
+  561-576.
 
 \bibitem[{Baule {\biband} Shulski(2014)Baule and
   Shulski}]{baule2014climatology}
@@ -14,6 +71,39 @@ BAULE~W~J, SHULSKI~M~D.
 \newblock International journal of climatology, 2014, 34\penalty0 (8):\penalty0
   2819-2833.
 
+\bibitem[{Beniston(2005)}]{beniston2005mountain}
+BENISTON~M.
+\newblock Mountain climates and climatic change: An overview of processes
+  focusing on the european alps\allowbreak[J].
+\newblock Pure and Applied Geophysics, 2005, 162\penalty0 (8):\penalty0
+  1587-1606.
+
+\bibitem[{Berrisford {\bibetal}(2015)Berrisford, Tobin, Dunn, Vautard, and
+  McVicar}]{berrisford2015global}
+BERRISFORD~P, TOBIN~I, DUNN~R, et~al.
+\newblock Global climate; atmospheric circulation; surface winds land surface
+  wind speed in “state of the climate in 2014”\allowbreak[J].
+\newblock Bull Am Meteorol Soc, 2015, 95\penalty0 (7):\penalty0 S33-S34.
+
+\bibitem[{Beychok(2005)}]{beychok2005fundamentals}
+BEYCHOK~M~R.
+\newblock Fundamentals of stack gas dispersion\allowbreak[M].
+\newblock MR Beychok, 2005.
+
+\bibitem[{Bichet {\bibetal}(2012)Bichet, Wild, Folini, and
+  Sch{\"a}r}]{bichet2012causes}
+BICHET~A, WILD~M, FOLINI~D, et~al.
+\newblock Causes for decadal variations of wind speed over land: Sensitivity
+  studies with a global climate model\allowbreak[J].
+\newblock Geophysical Research Letters, 2012, 39\penalty0 (11).
+
+\bibitem[{Bollasina {\bibetal}(2011)Bollasina, Ming, and
+  Ramaswamy}]{bollasina2011anthropogenic}
+BOLLASINA~M, MING~Y, RAMASWAMY~V.
+\newblock Anthropogenic aerosols and the weakening of the south asian summer
+  monsoon\allowbreak[J].
+\newblock Science, 2011, 334\penalty0 (6055):\penalty0 502-505.
+
 \bibitem[{Caesar {\bibetal}(2006)Caesar, Alexander, and
   Vose}]{caesar2006large-scale}
 CAESAR~J, ALEXANDER~L~V, VOSE~R~S.
@@ -21,12 +111,155 @@ CAESAR~J, ALEXANDER~L~V, VOSE~R~S.
   temperatures: Creation and analysis of a new gridded data set\allowbreak[J].
 \newblock Journal of Geophysical Research, 2006, 111.
 
+\bibitem[{Carvalho {\bibetal}(2017)Carvalho, Rocha, G{\'o}mez-Gesteira, and
+  Santos}]{carvalho2017potential}
+CARVALHO~D, ROCHA~A, G{\'O}MEZ-GESTEIRA~M, et~al.
+\newblock Potential impacts of climate change on european wind energy resource
+  under the cmip5 future climate projections\allowbreak[J].
+\newblock Renewable Energy, 2017, 101:\penalty0 29-40.
+
+\bibitem[{Chan {\biband} Yao(2008)Chan and Yao}]{chan2008air}
+CHAN~C~K, YAO~X.
+\newblock Air pollution in mega cities in china\allowbreak[J].
+\newblock Atmospheric environment, 2008, 42\penalty0 (1):\penalty0 1-42.
+
+\bibitem[{Chen {\bibetal}(2013)Chen, Li, and Pryor}]{chen2013wind}
+CHEN~L, LI~D, PRYOR~S~C.
+\newblock Wind speed trends over china quantifying the magnitude and assessing
+  causality\allowbreak[J].
+\newblock International Journal of Climatology, 2013, 33\penalty0
+  (11):\penalty0 2579-2590.
+
+\bibitem[{Collins {\bibetal}(2011)Collins, Bellouin, Doutriaux-Boucher, Gedney,
+  Halloran, Hinton, Hughes, Jones, Joshi, Liddicoat,
+  et~al.}]{collins2011development}
+COLLINS~W, BELLOUIN~N, DOUTRIAUX-BOUCHER~M, et~al.
+\newblock Development and evaluation of an earth-system
+  model--hadgem2\allowbreak[J].
+\newblock Geosci. Model Dev. Discuss, 2011, 4\penalty0 (2):\penalty0 997-1062.
+
+\bibitem[{Dee {\bibetal}(2011)Dee, Uppala, Simmons, Berrisford, Poli,
+  Kobayashi, Andrae, Balmaseda, Balsamo, Bauer, et~al.}]{dee2011the}
+DEE~D, UPPALA~S, SIMMONS~A~J, et~al.
+\newblock The era‐interim reanalysis: configuration and performance of the
+  data assimilation system\allowbreak[J].
+\newblock Quarterly Journal of the Royal Meteorological Society, 2011,
+  137\penalty0 (656):\penalty0 553-597.
+
+\bibitem[{Ding {\bibetal}(2014)Ding, Liu, Liang, Ma, Zhang, Si, Liang, Song,
+  and Zhang}]{ding2014interdecadal}
+DING~Y, LIU~Y, LIANG~S, et~al.
+\newblock Interdecadal variability of the east asian winter monsoon and its
+  possible links to global climate change\allowbreak[J].
+\newblock Journal of meteorological research, 2014, 28\penalty0 (5):\penalty0
+  693-713.
+
+\bibitem[{Dix {\bibetal}(2013)Dix, Vohralik, Bi, Rashid, Marsland, Ofarrell,
+  Uotila, Hirst, Kowalczyk, Sullivan, et~al.}]{dix2013the}
+DIX~M, VOHRALIK~P, BI~D, et~al.
+\newblock The access coupled model: documentation of core cmip5 simulations and
+  initial results\allowbreak[J].
+\newblock Australian Meteorological and Oceanographic Journal, 2013,
+  63\penalty0 (1):\penalty0 83-99.
+
+\bibitem[{Dufresne {\bibetal}(2013)Dufresne, Foujols, Denvil, Caubel, Marti,
+  Aumont, Balkanski, Bekki, Bellenger, Benshila, et~al.}]{dufresne2013climate}
+DUFRESNE~J, FOUJOLS~M, DENVIL~S, et~al.
+\newblock Climate change projections using the ipsl-cm5 earth system model:
+  from cmip3 to cmip5\allowbreak[J].
+\newblock Climate Dynamics, 2013, 40\penalty0 (9):\penalty0 2123-2165.
+
+\bibitem[{Dunn {\bibetal}(2012)Dunn, Willett, Thorne, Woolley, Durre, Dai,
+  Parker, and Vose}]{dunn2012hadisd:}
+DUNN~R~J~H, WILLETT~K~M, THORNE~P, et~al.
+\newblock Hadisd: a quality-controlled global synoptic report database for
+  selected variables at long-term stations from 1973–2011\allowbreak[J].
+\newblock Climate of The Past, 2012, 8\penalty0 (5):\penalty0 1649-1679.
+
+\bibitem[{Dunn {\bibetal}(2016)Dunn, Azorin-Molina, Mears, Berrisford, and
+  McVicar}]{dunn2016surface}
+DUNN~R, AZORIN-MOLINA~C, MEARS~C, et~al.
+\newblock Surface winds (in “state of the climate in 2015”)\allowbreak[J].
+\newblock Bull Am Meteor Soc, 2016, 97\penalty0 (8):\penalty0 S38-S40.
+
+\bibitem[{Dunne {\bibetal}(2012)Dunne, John, Adcroft, Griffies, Hallberg,
+  Shevliakova, Stouffer, Cooke, Dunne, Harrison, et~al.}]{dunne2012gfdl}
+DUNNE~J~P, JOHN~J~G, ADCROFT~A~J, et~al.
+\newblock Gfdl’s esm2 global coupled climate--carbon earth system models.
+  part i: Physical formulation and baseline simulation
+  characteristics\allowbreak[J].
+\newblock Journal of climate, 2012, 25\penalty0 (19):\penalty0 6646-6665.
+
+\bibitem[{Dunne {\bibetal}(2013)Dunne, John, Shevliakova, Stouffer, Krasting,
+  Malyshev, Milly, Sentman, Adcroft, Cooke, et~al.}]{dunne2013gfdl}
+DUNNE~J~P, JOHN~J~G, SHEVLIAKOVA~E, et~al.
+\newblock Gfdl’s esm2 global coupled climate--carbon earth system models.
+  part ii: carbon system formulation and baseline simulation
+  characteristics\allowbreak[J].
+\newblock Journal of Climate, 2013, 26\penalty0 (7):\penalty0 2247-2267.
+
+\bibitem[{Durre {\bibetal}(2006)Durre, Vose, and Wuertz}]{durre2006overview}
+DURRE~I, VOSE~R~S, WUERTZ~D~B.
+\newblock Overview of the integrated global radiosonde archive\allowbreak[J].
+\newblock Journal of Climate, 2006, 19\penalty0 (1):\penalty0 53-68.
+
+\bibitem[{Earl {\bibetal}(2013)Earl, Dorling, Hewston, and
+  Von~Glasow}]{earl20131980–2010}
+EARL~N, DORLING~S, HEWSTON~R, et~al.
+\newblock 1980–2010 variability in u.k. surface wind climate\allowbreak[J].
+\newblock Journal of Climate, 2013, 26\penalty0 (4):\penalty0 1172-1191.
+
+\bibitem[{Fogli {\bibetal}(2009)Fogli, Manzini, Vichi, Alessandri, Patara,
+  Gualdi, Scoccimarro, Masina, and Navarra}]{Fogli2009INGV}
+FOGLI~P~G, MANZINI~E, VICHI~M, et~al.
+\newblock Ingv-cmcc carbon (icc): A carbon cycle earth system
+  model\allowbreak[J].
+\newblock CMCC Research Paper, 2009.
+
+\bibitem[{Frankignoul {\biband} Kestenare(2005)Frankignoul and
+  Kestenare}]{frankignoul2005observed}
+FRANKIGNOUL~C, KESTENARE~E.
+\newblock Observed atlantic sst anomaly impact on the nao: An
+  update\allowbreak[J].
+\newblock Journal of Climate, 2005, 18\penalty0 (19):\penalty0 4089-4094.
+
+\bibitem[{Fu {\bibetal}(2011)Fu, Yu, Zhang, Hu, Ouyang, and
+  Liu}]{fu2011temporal}
+FU~G, YU~J, ZHANG~Y, et~al.
+\newblock Temporal variation of wind speed in china for
+  1961–2007\allowbreak[J].
+\newblock Theoretical and Applied Climatology, 2011, 104\penalty0 (3):\penalty0
+  313-324.
+
 \bibitem[{Gaffen {\bibetal}(2000)Gaffen, Santer, Boyle, Christy, Graham, and
   Ross}]{gaffen2000multidecadal}
 GAFFEN~D~J, SANTER~B~D, BOYLE~J~S, et~al.
 \newblock Multidecadal changes in the vertical temperature structure of the
   tropical troposphere\allowbreak[J].
 \newblock Science, 2000, 287\penalty0 (5456):\penalty0 1242-1245.
+
+\bibitem[{Giorgetta {\bibetal}(2013)Giorgetta, Jungclaus, Reick, Legutke,
+  Bader, Bottinger, Brovkin, Crueger, Esch, Fieg,
+  et~al.}]{giorgetta2013climate}
+GIORGETTA~M~A, JUNGCLAUS~J~H, REICK~C~H, et~al.
+\newblock Climate and carbon cycle changes from 1850 to 2100 in mpi‐esm
+  simulations for the coupled model intercomparison project phase
+  5\allowbreak[J].
+\newblock Journal of Advances in Modeling Earth Systems, 2013, 5\penalty0
+  (3):\penalty0 572-597.
+
+\bibitem[{Gordon {\bibetal}(2002)Gordon, Rotstayn, McGregor, Dix, Kowalczyk,
+  O’Farrell, Waterman, Hirst, Wilson, Collier, et~al.}]{gordon2002csiro}
+GORDON~H, ROTSTAYN~L, MCGREGOR~J, et~al.
+\newblock The csiro mk3 climate system model\allowbreak[M].
+\newblock CSIRO Atmospheric Research technical paper, 2002.
+
+\bibitem[{Griffies {\bibetal}(2011)Griffies, Winton, Donner, Horowitz, Downes,
+  Farneti, Gnanadesikan, Hurlin, Lee, Liang, et~al.}]{griffies2011gfdl}
+GRIFFIES~S~M, WINTON~M, DONNER~L~J, et~al.
+\newblock The gfdl cm3 coupled climate model: characteristics of the ocean and
+  sea ice simulations\allowbreak[J].
+\newblock Journal of Climate, 2011, 24\penalty0 (13):\penalty0 3520-3544.
 
 \bibitem[{Guo {\bibetal}(2011)Guo, Xu, and Hu}]{guo2011changes}
 GUO~H, XU~M, HU~Q.
@@ -40,10 +273,240 @@ HOLTON~J~R.
 \newblock An introduction to dynamic meteorology (4th ed.)\allowbreak[M].
 \newblock Elsevier Academic Press, MA, 2004.
 
+\bibitem[{Ji {\bibetal}(2014)Ji, Wang, Feng, Wu, Cheng, Zhang, Yang, Dong, Dai,
+  Gong, et~al.}]{ji2014description}
+JI~D, WANG~L, FENG~J, et~al.
+\newblock Description and basic evaluation of beijing normal university earth
+  system model (bnu-esm) version 1\allowbreak[J].
+\newblock Geoscientific Model Development, 2014, 7\penalty0 (5):\penalty0
+  2039-2064.
+
+\bibitem[{Jiang {\bibetal}(2009)Jiang, Luo, and Zhao}]{zongci2009evaluation}
+JIANG~Y, LUO~Y, ZHAO~Z.
+\newblock Evaluation of wind speeds in china as simulated by global climate
+  models.\allowbreak[J].
+\newblock Acta Meteorologica Sinica, 2009, 67\penalty0 (6):\penalty0 0923-34.
+
+\bibitem[{Johns {\bibetal}(2003)Johns, Gregory, Ingram, Johnson, Jones, Lowe,
+  Mitchell, Roberts, Sexton, Stevenson, et~al.}]{johns2003anthropogenic}
+JOHNS~T, GREGORY~J, INGRAM~W, et~al.
+\newblock Anthropogenic climate change for 1860 to 2100 simulated with the
+  hadcm3 model under updated emissions scenarios\allowbreak[J].
+\newblock Climate dynamics, 2003, 20\penalty0 (6):\penalty0 583-612.
+
 \bibitem[{Kalnay {\biband} Cai(2003)Kalnay and Cai}]{kalnay2003impact}
 KALNAY~E, CAI~M.
 \newblock Impact of urbanization and land-use change on climate\allowbreak[J].
 \newblock Nature, 2003, 423\penalty0 (6939):\penalty0 528-531.
+
+\bibitem[{Kalnay {\bibetal}(1996)Kalnay, Kanamitsu, Kistler, Collins, Deaven,
+  Gandin, Iredell, Saha, White, Woollen, et~al.}]{kalnay1996the}
+KALNAY~E, KANAMITSU~M, KISTLER~R, et~al.
+\newblock The ncep/ncar 40-year reanalysis project\allowbreak[J].
+\newblock Bulletin of the American Meteorological Society, 1996, 77\penalty0
+  (3):\penalty0 437-471.
+
+\bibitem[{Kanamitsu {\bibetal}(2002)Kanamitsu, Ebisuzaki, Woollen, Yang, Hnilo,
+  Fiorino, and Potter}]{kanamitsu2002ncep–doe}
+KANAMITSU~M, EBISUZAKI~W, WOOLLEN~J, et~al.
+\newblock Ncep–doe amip-ii reanalysis (r-2)\allowbreak[J].
+\newblock Bulletin of the American Meteorological Society, 2002, 83\penalty0
+  (11):\penalty0 1631-1643.
+
+\bibitem[{Karnauskas {\bibetal}(2018)Karnauskas, Lundquist, and
+  Zhang}]{karnauskas2018southward}
+KARNAUSKAS~K~B, LUNDQUIST~J~K, ZHANG~L.
+\newblock Southward shift of the global wind energy resource under high carbon
+  dioxide emissions\allowbreak[J].
+\newblock Nature Geoscience, 2018, 11\penalty0 (1):\penalty0 38-43.
+
+\bibitem[{Kennedy {\bibetal}(2011{\natexlab{a}})Kennedy, Rayner, Smith, Parker,
+  and Saunby}]{kennedy2011reassessing1}
+KENNEDY~J, RAYNER~N~A, SMITH~R~O, et~al.
+\newblock Reassessing biases and other uncertainties in sea surface temperature
+  observations measured in situ since 1850: 1. measurement and sampling
+  uncertainties\allowbreak[J].
+\newblock Journal of Geophysical Research, 2011, 116.
+
+\bibitem[{Kennedy {\bibetal}(2011{\natexlab{b}})Kennedy, Rayner, Smith, Parker,
+  and Saunby}]{kennedy2011reassessing2}
+KENNEDY~J, RAYNER~N~A, SMITH~R~O, et~al.
+\newblock Reassessing biases and other uncertainties in sea surface temperature
+  observations measured in situ since 1850: 2. biases and
+  homogenization\allowbreak[J].
+\newblock Journal of Geophysical Research, 2011, 116.
+
+\bibitem[{Kim {\biband} Paik(2015)Kim and Paik}]{kim2015recent}
+KIM~J, PAIK~K.
+\newblock Recent recovery of surface wind speed after decadal decrease: a focus
+  on south korea\allowbreak[J].
+\newblock Climate dynamics, 2015, 45\penalty0 (5-6):\penalty0 1699-1712.
+
+\bibitem[{Klai{\'c} {\bibetal}(2002)Klai{\'c}, Nitis, Kos, and
+  Moussiopoulos}]{klaic2002modification}
+KLAI{\'C}~Z~B, NITIS~T, KOS~I, et~al.
+\newblock Modification of the local winds due to hypothetical urbanization of
+  the zagreb surroundings\allowbreak[J].
+\newblock Meteorology and Atmospheric Physics, 2002, 79\penalty0
+  (1-2):\penalty0 1-12.
+
+\bibitem[{Klink(1999)}]{klink1999trends}
+KLINK~K.
+\newblock Trends in mean monthly maximum and minimum surface wind speeds in the
+  coterminous united states, 1961 to 1990\allowbreak[J].
+\newblock Climate Research, 1999, 13\penalty0 (3):\penalty0 193-205.
+
+\bibitem[{Kobayashi {\bibetal}(2015)Kobayashi, Ota, Harada, Ebita, Moriya,
+  Onoda, Onogi, Kamahori, Kobayashi, Endo, et~al.}]{kobayashi2015the}
+KOBAYASHI~S, OTA~Y, HARADA~Y, et~al.
+\newblock The jra-55 reanalysis: General specifications and basic
+  characteristics\allowbreak[J].
+\newblock Journal of the Meteorological Society of Japan, 2015, 93\penalty0
+  (1):\penalty0 5-48.
+
+\bibitem[{Lifland(2003)}]{lifland2003the}
+LIFLAND~J.
+\newblock The north atlantic oscillation: Climatic significance and
+  environmental impact\allowbreak[J].
+\newblock Eos, Transactions American Geophysical Union, 2003, 84\penalty0
+  (8):\penalty0 73-73.
+
+\bibitem[{Lin {\bibetal}(2013)Lin, Yang, Qin, and Fu}]{lin2013observed}
+LIN~C, YANG~K, QIN~J, et~al.
+\newblock Observed coherent trends of surface and upper-air wind speed over
+  china since 1960\allowbreak[J].
+\newblock Journal of Climate, 2013, 26\penalty0 (9):\penalty0 2891-2903.
+
+\bibitem[{Liu {\bibetal}(2015)Liu, Wu, Yang, Jie, Nie, Li, Cheng, and
+  Liang}]{liu2015performance}
+LIU~X, WU~T, YANG~S, et~al.
+\newblock Performance of the seasonal forecasting of the asian summer monsoon
+  by bcc-csm1.1(m)\allowbreak[J].
+\newblock Advances in Atmospheric Sciences, 2015, 32\penalty0 (8):\penalty0
+  1156-1172.
+
+\bibitem[{Lu {\bibetal}(2009)Lu, McElroy, and Kiviluoma}]{lu2009global}
+LU~X, MCELROY~M~B, KIVILUOMA~J.
+\newblock Global potential for wind-generated electricity\allowbreak[J].
+\newblock Proceedings of the National Academy of Sciences, 2009, 106\penalty0
+  (27):\penalty0 10933-10938.
+
+\bibitem[{Manwell {\bibetal}(2010)Manwell, McGowan, and
+  Rogers}]{manwell2010wind}
+MANWELL~J~F, MCGOWAN~J~G, ROGERS~A~L.
+\newblock Wind energy explained: theory, design and application\allowbreak[M].
+\newblock John Wiley \& Sons, 2010.
+
+\bibitem[{McKee {\bibetal}(2000)McKee, Doesken, Davey, and
+  Pielke~Sr}]{mckee2000climate}
+MCKEE~T~B, DOESKEN~N~J, DAVEY~C~A, et~al.
+\newblock Climate data continuity with asos: Report for period april 1996
+  through june 2000\allowbreak[J].
+\newblock Climatology report; 00-3, 2000.
+
+\bibitem[{Mcvicar {\bibetal}(2012)Mcvicar, Roderick, Donohue, Li, Van~Niel,
+  Thomas, Grieser, Jhajharia, Himri, Mahowald, et~al.}]{mcvicar2012global}
+MCVICAR~T~R, RODERICK~M~L, DONOHUE~R~J, et~al.
+\newblock Global review and synthesis of trends in observed terrestrial
+  near-surface wind speeds: Implications for evaporation\allowbreak[J].
+\newblock Journal of Hydrology, 2012, 416:\penalty0 182-205.
+
+\bibitem[{Molod {\bibetal}(2014)Molod, Takacs, Suarez, and
+  Bacmeister}]{molod2014development}
+MOLOD~A, TAKACS~L~L, SUAREZ~M~J, et~al.
+\newblock Development of the geos-5 atmospheric general circulation model:
+  evolution from merra to merra2\allowbreak[J].
+\newblock Geoscientific Model Development, 2014, 8\penalty0 (5):\penalty0
+  1339-1356.
+
+\bibitem[{Monahan(2006{\natexlab{a}})}]{monahan2006the1}
+MONAHAN~A~H.
+\newblock The probability distribution of sea surface wind speeds. part i:
+  Theory and seawinds observations\allowbreak[J].
+\newblock Journal of Climate, 2006, 19\penalty0 (4):\penalty0 497-520.
+
+\bibitem[{Monahan(2006{\natexlab{b}})}]{monahan2006the2}
+MONAHAN~A~H.
+\newblock The probability distribution of sea surface wind speeds. part ii:
+  Dataset intercomparison and seasonal variability\allowbreak[J].
+\newblock Journal of Climate, 2006, 19\penalty0 (4):\penalty0 521-534.
+
+\bibitem[{Ohlenforst(2019)}]{ohlenforst2019global}
+OHLENFORST~K.
+\newblock Global wind report 2018\allowbreak[R].
+\newblock Global Wind Energy Council, 2019.
+
+\bibitem[{Peterson {\biband} Hennessey(1978)Peterson and
+  Hennessey}]{peterson1978on}
+PETERSON~E~W, HENNESSEY~J~P.
+\newblock On the use of power laws for estimates of wind power
+  potential\allowbreak[J].
+\newblock Journal of Applied Meteorology, 1978, 17\penalty0 (3):\penalty0
+  390-394.
+
+\bibitem[{Pryor {\biband} Barthelmie(2010)Pryor and
+  Barthelmie}]{pryor2010climate}
+PRYOR~S~C, BARTHELMIE~R~J.
+\newblock Climate change impacts on wind energy: A review\allowbreak[J].
+\newblock Renewable and Sustainable Energy Reviews, 2010, 14\penalty0
+  (1):\penalty0 430-437.
+
+\bibitem[{Pryor {\biband} Barthelmie(2011)Pryor and
+  Barthelmie}]{pryor2011assessing}
+PRYOR~S, BARTHELMIE~R.
+\newblock Assessing climate change impacts on the near-term stability of the
+  wind energy resource over the united states\allowbreak[J].
+\newblock Proceedings of the National Academy of Sciences, 2011, 108\penalty0
+  (20):\penalty0 8167-8171.
+
+\bibitem[{Pryor {\biband} Ledolter(2010)Pryor and Ledolter}]{pryor2010addendum}
+PRYOR~S, LEDOLTER~J.
+\newblock Addendum to “wind speed trends over the contiguous united
+  states”\allowbreak[J].
+\newblock Journal of Geophysical Research: Atmospheres, 2010, 115\penalty0
+  (D10).
+
+\bibitem[{Ramanathan {\bibetal}(2005)Ramanathan, Chung, Kim, Bettge, Buja,
+  Kiehl, Washington, Fu, Sikka, and Wild}]{ramanathan2005atmospheric}
+RAMANATHAN~V, CHUNG~C, KIM~D, et~al.
+\newblock Atmospheric brown clouds: Impacts on south asian climate and
+  hydrological cycle\allowbreak[J].
+\newblock Proceedings of the National Academy of Sciences, 2005, 102\penalty0
+  (15):\penalty0 5326-5333.
+
+\bibitem[{Roderick {\bibetal}(2007)Roderick, Rotstayn, Farquhar, and
+  Hobbins}]{roderick2007attribution}
+RODERICK~M~L, ROTSTAYN~L~D, FARQUHAR~G~D, et~al.
+\newblock On the attribution of changing pan evaporation\allowbreak[J].
+\newblock Geophysical research letters, 2007, 34\penalty0 (17).
+
+\bibitem[{Sakamoto {\bibetal}(2012)Sakamoto, Komuro, Nishimura, Ishii, Tatebe,
+  Shiogama, Hasegawa, Toyoda, Mori, Suzuki, et~al.}]{sakamoto2012miroc4h}
+SAKAMOTO~T~T, KOMURO~Y, NISHIMURA~T, et~al.
+\newblock Miroc4h-a new high-resolution atmosphere-ocean coupled general
+  circulation model\allowbreak[J].
+\newblock Journal of the Meteorological Society of Japan, 2012, 90\penalty0
+  (3):\penalty0 325-359.
+
+\bibitem[{Santer {\bibetal}(2011)Santer, Wigley, and
+  Taylor}]{santer2011reproducibility}
+SANTER~B, WIGLEY~T, TAYLOR~K.
+\newblock The reproducibility of observational estimates of surface and
+  atmospheric temperature change\allowbreak[J].
+\newblock Science, 2011, 334\penalty0 (6060):\penalty0 1232-1233.
+
+\bibitem[{Schmidt {\bibetal}(2014)Schmidt, Kelley, Nazarenko, Ruedy, Russell,
+  Aleinov, Bauer, Bauer, Bhat, Bleck, et~al.}]{schmidt2014configuration}
+SCHMIDT~G~A, KELLEY~M, NAZARENKO~L, et~al.
+\newblock Configuration and assessment of the giss modele2 contributions to the
+  cmip5 archive\allowbreak[J].
+\newblock Journal of Advances in Modeling Earth Systems, 2014, 6\penalty0
+  (1):\penalty0 141-184.
+
+\bibitem[{Shuttleworth(1993)}]{shuttleworth1993evaporation}
+SHUTTLEWORTH~W.
+\newblock Evaporation. chapter 4 in: Handbook of hydrology.\allowbreak[M].
+\newblock McGraw-Hill, 1993.
 
 \bibitem[{Skamarock {\bibetal}(2019)Skamarock, Klemp,
   et~al.}]{skamarock2019description}
@@ -51,6 +514,27 @@ SKAMAROCK~W, KLEMP~J, et~al.
 \newblock A description of the advanced research wrf model version 4. ncar
   technical notes.\allowbreak[R].
 \newblock NCAR, 2019.
+
+\bibitem[{Smith {\bibetal}(2011)Smith, Lott, and Vose}]{smith2011the}
+SMITH~A~B, LOTT~N, VOSE~R.
+\newblock The integrated surface database: Recent developments and
+  partnerships\allowbreak[J].
+\newblock Bulletin of the American Meteorological Society, 2011, 92\penalty0
+  (6):\penalty0 704-708.
+
+\bibitem[{Sooraj {\bibetal}(2015)Sooraj, Terray, and
+  Mujumdar}]{sooraj2015global}
+SOORAJ~K~P, TERRAY~P, MUJUMDAR~M.
+\newblock Global warming and the weakening of the asian summer monsoon
+  circulation: assessments from the cmip5 models\allowbreak[J].
+\newblock Climate Dynamics, 2015, 45\penalty0 (1):\penalty0 233-252.
+
+\bibitem[{Stocker {\bibetal}(2013)Stocker, Qin, Plattner, Tignor, Allen,
+  Boschung, Nauels, Xia, Bex, Midgley, et~al.}]{stocker2013climate}
+STOCKER~T~F, QIN~D, PLATTNER~G~K, et~al.
+\newblock Climate change 2013: The physical science basis\allowbreak[J].
+\newblock Contribution of working group I to the fifth assessment report of the
+  intergovernmental panel on climate change, 2013, 1535.
 
 \bibitem[{Sullamenashe {\bibetal}(2019)Sullamenashe, Gray, Abercrombie, and
   Friedl}]{sullamenashe2019hierarchical}
@@ -66,12 +550,40 @@ THORNE~P, PARKER~D~E, TETT~S~F~B, et~al.
   2002\allowbreak[J].
 \newblock Journal of Geophysical Research, 2005, 110.
 
+\bibitem[{Tian {\bibetal}(2019)Tian, Huang, Hu, and Niyogi}]{tian2019observed}
+TIAN~Q, HUANG~G, HU~K, et~al.
+\newblock Observed and global climate model based changes in wind power
+  potential over the northern hemisphere during 1979--2016\allowbreak[J].
+\newblock Energy, 2019, 167:\penalty0 1224-1235.
+
+\bibitem[{Tobin {\bibetal}(2014)Tobin, Berrisford, Dunn, Vautard, and
+  McVicar}]{tobin2014global}
+TOBIN~I, BERRISFORD~P, DUNN~R, et~al.
+\newblock Global climate; atmospheric circulation; surface winds land surface
+  wind speed in “state of the climate in 2013”\allowbreak[J].
+\newblock Bull Am Meteorol Soc, 2014, 95\penalty0 (7):\penalty0 S28-S29.
+
+\bibitem[{Torralba {\bibetal}(2017)Torralba, Doblas-Reyes, and
+  Gonzalez-Reviriego}]{torralba2017uncertainty}
+TORRALBA~V, DOBLAS-REYES~F~J, GONZALEZ-REVIRIEGO~N.
+\newblock Uncertainty in recent near-surface wind speed trends: a global
+  reanalysis intercomparison\allowbreak[J].
+\newblock Environmental Research Letters, 2017, 12\penalty0 (11):\penalty0
+  114019.
+
 \bibitem[{Vautard {\bibetal}(2010)Vautard, Cattiaux, Yiou, Th{\'e}paut, and
   Ciais}]{vautard2010northern}
 VAUTARD~R, CATTIAUX~J, YIOU~P, et~al.
 \newblock Northern hemisphere atmospheric stilling partly attributed to an
   increase in surface roughness\allowbreak[J].
 \newblock Nature geoscience, 2010, 3\penalty0 (11):\penalty0 756-761.
+
+\bibitem[{Vautard {\bibetal}(2012)Vautard, McVicar, Th{\'e}paut, and
+  Roderick}]{mcvicar2012land}
+VAUTARD~R, MCVICAR~T, TH{\'E}PAUT~J, et~al.
+\newblock Land surface winds and atmospheric evaporative demand [in “state of
+  the climate in 2011”]\allowbreak[J].
+\newblock Bull. Amer. Meteor. Soc, 2012, 93\penalty0 (7):\penalty0 S36-S38.
 
 \bibitem[{Vincent {\bibetal}(2012)Vincent, Wang, Milewska, Wan, Yang, and
   Swail}]{vincent2012second}
@@ -80,6 +592,47 @@ VINCENT~L~A, WANG~X~L, MILEWSKA~E~J, et~al.
   temperature for climate trend analysis\allowbreak[J].
 \newblock Journal of Geophysical Research: Atmospheres, 2012, 117\penalty0
   (D18).
+
+\bibitem[{Volodin {\bibetal}(2010)Volodin, Dianskii, and
+  Gusev}]{volodin2010simulating}
+VOLODIN~E~M, DIANSKII~N~A, GUSEV~A~V.
+\newblock Simulating present-day climate with the inmcm4.0 coupled model of the
+  atmospheric and oceanic general circulations\allowbreak[J].
+\newblock Izvestiya Atmospheric and Oceanic Physics, 2010, 46\penalty0
+  (4):\penalty0 414-431.
+
+\bibitem[{Wallace {\biband} Gutzler(1981)Wallace and
+  Gutzler}]{wallace1981teleconnections}
+WALLACE~J~M, GUTZLER~D~S.
+\newblock Teleconnections in the geopotential height field during the northern
+  hemisphere winter\allowbreak[J].
+\newblock Monthly Weather Review, 1981, 109\penalty0 (4):\penalty0 784-812.
+
+\bibitem[{Walter {\bibetal}(2006)Walter, Keuler, Jacob, Knoche, Block,
+  Kotlarski, M{\"u}ller-Westermeier, Rechid, and Ahrens}]{walter2006high}
+WALTER~A, KEULER~K, JACOB~D, et~al.
+\newblock A high resolution reference data set of german wind velocity
+  1951--2001 and comparison with regional climate model results\allowbreak[J].
+\newblock Meteorologische Zeitschrift, 2006, 15\penalty0 (6):\penalty0 585-596.
+
+\bibitem[{Wan {\bibetal}(2010)Wan, Wang, and Swail}]{wan2010homogenization}
+WAN~H, WANG~X~L, SWAIL~V~R.
+\newblock Homogenization and trend analysis of canadian near-surface wind
+  speeds\allowbreak[J].
+\newblock Journal of Climate, 2010, 23\penalty0 (5):\penalty0 1209-1225.
+
+\bibitem[{Wang(2002)}]{wang2002atlantic}
+WANG~C.
+\newblock Atlantic climate variability and its associated atmospheric
+  circulation cells\allowbreak[J].
+\newblock Journal of Climate, 2002, 15\penalty0 (13):\penalty0 1516-1536.
+
+\bibitem[{Wang {\bibetal}(2011)Wang, Wen, Yang, and Huang}]{wang2011cost}
+WANG~Q, WEN~F, YANG~A, et~al.
+\newblock Cost analysis and pricing policy of wind power in
+  china\allowbreak[J].
+\newblock Journal of Energy Engineering-asce, 2011, 137\penalty0 (3):\penalty0
+  138-150.
 
 \bibitem[{Wang(2008)}]{wang2008penalized}
 WANG~X~L.
@@ -108,12 +661,53 @@ WANG~X, FENG~Y.
 \newblock Climate Research Division, Science and Technology Branch, Environment
   Canada, 2014.
 
+\bibitem[{Watanabe {\bibetal}(2010)Watanabe, Suzuki, Oishi, Komuro, Watanabe,
+  Emori, Takemura, Chikira, Ogura, Sekiguchi, et~al.}]{watanabe2010improved}
+WATANABE~M, SUZUKI~T, OISHI~R, et~al.
+\newblock Improved climate simulation by miroc5: Mean states, variability, and
+  climate sensitivity\allowbreak[J].
+\newblock Journal of Climate, 2010, 23\penalty0 (23):\penalty0 6312-6335.
+
+\bibitem[{Wever(2012)}]{wever2012quantifying}
+WEVER~N.
+\newblock Quantifying trends in surface roughness and the effect on surface
+  wind speed observations\allowbreak[J].
+\newblock Journal of Geophysical Research, 2012, 117.
+
 \bibitem[{Wu {\bibetal}(2016)Wu, Zha, and Zhao}]{wu2016estimating}
 WU~J, ZHA~J, ZHAO~D.
 \newblock Estimating the impact of the changes in land use and cover on the
   surface wind speed over the east china plain during the period
   1980–2011\allowbreak[J].
 \newblock Climate Dynamics, 2016, 46\penalty0 (3):\penalty0 847-863.
+
+\bibitem[{Xin {\bibetal}(2013)Xin, Zhang, Zhang, Tongwen, and
+  Fang}]{xin2013climate}
+XIN~X, ZHANG~L, ZHANG~J, et~al.
+\newblock Climate change projections over east asia with bcc-csm1.1 climate
+  model under rcp scenarios\allowbreak[J].
+\newblock Journal of the Meteorological Society of Japan, 2013, 91\penalty0
+  (4):\penalty0 413-429.
+
+\bibitem[{Xu {\bibetal}(2006)Xu, Chang, Fu, Qi, Robock, Robinson, and
+  Zhang}]{xu2006steady}
+XU~M, CHANG~C~P, FU~C, et~al.
+\newblock Steady decline of east asian monsoon winds, 1969–2000: Evidence
+  from direct ground measurements of wind speed\allowbreak[J].
+\newblock Journal of Geophysical Research, 2006, 111\penalty0 (24).
+
+\bibitem[{Yan {\bibetal}(2002)Yan, Bate, Chandler, Isham, and
+  Wheater}]{yan2002an}
+YAN~Z, BATE~S, CHANDLER~R~E, et~al.
+\newblock An analysis of daily maximum wind speed in northwestern europe using
+  generalized linear models\allowbreak[J].
+\newblock Journal of Climate, 2002, 15\penalty0 (15):\penalty0 2073-2088.
+
+\bibitem[{Yang {\bibetal}(2010)Yang, Liu, and Liu}]{yang2010linking}
+YANG~J, LIU~Q, LIU~Z.
+\newblock Linking observations of the asian monsoon to the indian ocean sst:
+  Possible roles of indian ocean basin mode and dipole mode\allowbreak[J].
+\newblock Journal of Climate, 2010, 23\penalty0 (21):\penalty0 5889-5902.
 
 \bibitem[{Yang {\bibetal}(2019)Yang, Wang, and Wild}]{yang2019causes}
 YANG~S, WANG~X~L, WILD~M.
@@ -122,11 +716,40 @@ YANG~S, WANG~X~L, WILD~M.
   (1958--2016)\allowbreak[J].
 \newblock Journal of Climate, 2019, 32\penalty0 (18):\penalty0 5901-5913.
 
+\bibitem[{Yasunaka {\biband} Hanawa(2002)Yasunaka and
+  Hanawa}]{yasunaka2002regime}
+YASUNAKA~S, HANAWA~K.
+\newblock Regime shifts found in the northern hemisphere sst
+  field\allowbreak[J].
+\newblock Journal of the Meteorological Society of Japan, 2002, 80\penalty0
+  (1):\penalty0 119-135.
+
+\bibitem[{Yin {\bibetal}(2010)Yin, Wu, and Dai}]{yin2010determining}
+YIN~Y, WU~S, DAI~E.
+\newblock Determining factors in potential evapotranspiration changes over
+  china in the period 1971--2008\allowbreak[J].
+\newblock Chinese Science Bulletin, 2010, 55\penalty0 (29):\penalty0 3329-3337.
+
 \bibitem[{Yu {\bibetal}(2015)Yu, Sun, Chen, and Xiang}]{yu2015evaluation}
 YU~E, SUN~J, CHEN~H, et~al.
 \newblock Evaluation of a high-resolution historical simulation over china:
   climatology and extremes\allowbreak[J].
 \newblock Climate Dynamics, 2015, 45\penalty0 (7):\penalty0 2013-2031.
+
+\bibitem[{Yukimoto {\bibetal}(2012)Yukimoto, Adachi, Hosaka, Sakami, Yoshimura,
+  Hirabara, Tanaka, Shindo, Tsujino, Deushi, et~al.}]{yukimoto2012a}
+YUKIMOTO~S, ADACHI~Y, HOSAKA~M, et~al.
+\newblock A new global climate model of the meteorological research institute:
+  Mri-cgcm3 —model description and basic performance—\allowbreak[J].
+\newblock Journal of the Meteorological Society of Japan, 2012, 90:\penalty0
+  23-64.
+
+\bibitem[{Zeng {\bibetal}(2019)Zeng, Ziegler, Searchinger, Yang, Chen, Ju,
+  Piao, Li, Ciais, Chen, et~al.}]{zeng2019a}
+ZENG~Z, ZIEGLER~A~D, SEARCHINGER~T~D, et~al.
+\newblock A reversal in global terrestrial stilling and its implications for
+  wind energy production\allowbreak[J].
+\newblock Nature Climate Change, 2019, 9\penalty0 (12):\penalty0 979-985.
 
 \bibitem[{Zha {\bibetal}(2017)Zha, Wu, and Zhao}]{zha2017effects}
 ZHA~J, WU~J, ZHAO~D.
@@ -147,5 +770,19 @@ ZHANG~N, GAO~Z, WANG~X, et~al.
   in yangtze river delta, china\allowbreak[J].
 \newblock Theoretical and Applied Climatology, 2010, 102\penalty0 (3):\penalty0
   331-342.
+
+\bibitem[{Zhang {\bibetal}(2019)Zhang, Wang, Chen, Li, and
+  Dickinson}]{zhang2019increase}
+ZHANG~Z, WANG~K, CHEN~D, et~al.
+\newblock Increase in surface friction dominates the observed surface wind
+  speed decline during 1973–2014 in the northern hemisphere
+  lands\allowbreak[J].
+\newblock Journal of Climate, 2019, 32\penalty0 (21):\penalty0 7421-7435.
+
+\bibitem[{Zhu {\bibetal}(2012)Zhu, Liao, and Li}]{zhu2012increases}
+ZHU~J, LIAO~H, LI~J.
+\newblock Increases in aerosol concentrations over eastern china due to the
+  decadal‐scale weakening of the east asian summer monsoon\allowbreak[J].
+\newblock Geophysical Research Letters, 2012, 39\penalty0 (9):\penalty0 L09809.
 
 \end{thebibliography}
