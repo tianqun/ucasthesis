@@ -505,7 +505,7 @@
 %-> Figure environment support
 %-
 \RequirePackage{graphicx}% packages for including graphics
-\RequirePackage[format=plain,hangindent=2.0em,font={small,bf},skip=8pt,labelsep=space]{caption}% options: [margin=10pt,labelfont=bf]
+\RequirePackage[format=plain,font={small},labelfont=bf,skip=8pt,labelsep=quad, justification=centering]{caption}% options: [margin=10pt,labelfont=bf]
 \RequirePackage{subcaption}% package for subfigures
 \RequirePackage[list=off]{bicaption}% package for binary captions
 \DeclareCaptionOption{bi-first}[]{}% 1st language
@@ -594,9 +594,9 @@
         %pagebackref=true,% backreference by page number
         colorlinks=true,% false: boxed links; true: colored links
         linkcolor=black,% color of internal links
-        citecolor=blue,% color of links to bibliography
-        filecolor=blue,% color of file links
-        urlcolor=blue,% color of external links
+        citecolor=black,% color of links to bibliography
+        filecolor=black,% color of file links
+        urlcolor=black,% color of external links
     }
     \ifartx@xlink% set link color to black
         \hypersetup{% set hyperlinks
