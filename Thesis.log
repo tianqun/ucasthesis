@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2018.2.7)  22 APR 2020 09:42
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2018.2.7)  23 APR 2020 23:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2642,9 +2642,7 @@ LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
 \tf@toc=\write6
 \openout6 = `Thesis.toc'.
 
- [8] (./Thesis.lof
-Missing character: There is no ～ in font [lmroman12-regular]:mapping=tex-text;!
- [9
+ [8] (./Thesis.lof [9
 
 
 ] [10] [11])
@@ -2684,27 +2682,22 @@ File: Img/北半球陆地地表风速趋势（Vautard等2010）.png Graphic file
 <use  "Img/北半球陆地地表风速趋势（Vautard等2010）.png" > [3] [4] [5]
 File: Img/英国地表风速与NAO（Earl等，2013）.jpg Graphic file (type QTm)
 
-<use  "Img/英国地表风速与NAO（Earl等，2013）.jpg" >
+<use  "Img/英国地表风速与NAO（Earl等，2013）.jpg" > [6]
 File: Img/海表风速变化（Dunn等，2016）.png Graphic file (type QTm)
- <use  "Img/海表风速变化（Dunn等，2016）.png" >
-[6]
+
+<use  "Img/海表风速变化（Dunn等，2016）.png" >
 File: Img/中国城市化与风速变化（Guo等，2011）.jpg Graphic file (type QTm)
  <use  "Img/中国城市化与风速变化（Guo等，2011）.jpg" >
 File: Img/中国地表风速OMR（Zha等，2017）.png Graphic file (type QTm)
 
 <use  "Img/中国地表风速OMR（Zha等，2017）.png" >
-Missing character: There is no ～ in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ～ in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ～ in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ～ in font [lmroman10-regular]:mapping=tex-text;!
- [7] [8]
 File: Img/外强迫对地表风速等影响（Bichet等，2012）.png Graphic file (type QTm)
 
-<use  "Img/外强迫对地表风速等影响（Bichet等，2012）.png" > [9]
+<use  "Img/外强迫对地表风速等影响（Bichet等，2012）.png" > [7]
 File: Img/风能资源分布（Archer和Jacobson，2005）.png Graphic file (type QTm)
 
-<use  "Img/风能资源分布（Archer和Jacobson，2005）.png" > [10] [11]) (./Tex/chap2.tex
-[12]
+<use  "Img/风能资源分布（Archer和Jacobson，2005）.png" > [8] [9] [10] [11])
+(./Tex/chap2.tex [12]
 第2章
 [13
 
@@ -2756,7 +2749,7 @@ File: Img/对流层中位数风速趋势.png Graphic file (type QTm)
 [35]
 File: Img/北美观测塔分布.png Graphic file (type QTm)
  <use  "Img/北美观测塔分布.png" >
-Overfull \hbox (8.09528pt too wide) in paragraph at lines 71--84
+Overfull \hbox (7.43579pt too wide) in paragraph at lines 71--84
  [][] 
  []
 
@@ -2784,14 +2777,19 @@ File: Img/海平面气压变化.png Graphic file (type QTm)
 ]
 File: Img/风速与海温相关系数.png Graphic file (type QTm)
  <use  "Img/风速与海温相关系数.png" >
-File: Img/北美风速与TNA.png Graphic file (type QTm)
- <use  "Img/北美风速与TNA.png" >
-File: Img/欧洲风速与NAO.png Graphic file (type QTm)
 
-<use  "Img/欧洲风速与NAO.png" > [43] [44] [45]
+LaTeX Warning: Float too large for page by 2.28958pt on input line 159.
+
+File: Img/北美风速与TNA.png Graphic file (type QTm)
+<use  "Img/北美风速与TNA.png" >
+File: Img/欧洲风速与NAO.png Graphic file (type QTm)
+ <use  "Img/欧洲风速与NAO.png" > [43] [44]
+
+LaTeX Warning: Text page 45 contains only floats.
+
+[45]
 File: Img/亚洲中纬度风速与WPWPA和PDO.png Graphic file (type QTm)
- <use  "Img/亚洲中纬度风速与WPWPA和PDO.png" >
-[46]) (./Tex/chap4.tex [47] [48
+ <use  "Img/亚洲中纬度风速与WPWPA和PDO.png" > [46]) (./Tex/chap4.tex [47] [48
 
 ]
 第4章
@@ -2889,14 +2887,14 @@ File: Img/北半球风能密度演变.png Graphic file (type QTm)
  <use  "Img/北半球风能密度演变.png" >
 File: Img/北半球风能密度变化.jpg Graphic file (type QTm)
 
-<use  "Img/北半球风能密度变化.jpg" > [78] [79]
+<use  "Img/北半球风能密度变化.jpg" >
 File: Img/北美风能密度变化.png Graphic file (type QTm)
  <use  "Img/北美风能密度变化.png" >
 File: Img/北美大于3类风力站点风能密度变化.png Graphic file (type QTm)
 
 <use  "Img/北美大于3类风力站点风能密度变化.png" >
 File: Img/北美洲风能密度演变.png Graphic file (type QTm)
- <use  "Img/北美洲风能密度演变.png" > [80] [81]
+ <use  "Img/北美洲风能密度演变.png" > [78]
 File: Img/欧洲风能密度变化.png Graphic file (type QTm)
 
 <use  "Img/欧洲风能密度变化.png" >
@@ -2904,45 +2902,48 @@ File: Img/欧洲大于3类风力站点风能密度变化.png Graphic file (type 
  <use  "Img/欧洲大于3类风力站点风能密度变化.png" >
 File: Img/欧洲风能密度演变.png Graphic file (type QTm)
 
-<use  "Img/欧洲风能密度演变.png" > [82] [83]
+<use  "Img/欧洲风能密度演变.png" > [79] [80] [81] [82] [83]
 File: Img/亚洲风能密度变化.png Graphic file (type QTm)
  <use  "Img/亚洲风能密度变化.png" >
 File: Img/中国大于3类风力站点风能密度变化.png Graphic file (type QTm)
 
 <use  "Img/中国大于3类风力站点风能密度变化.png" >
 File: Img/中国风能密度演变.png Graphic file (type QTm)
- <use  "Img/中国风能密度演变.png" > [84]
-File: Img/北半球风速趋势模拟.png Graphic file (type QTm)
+ <use  "Img/中国风能密度演变.png" > [84] [85]
+Overfull \hbox (10.41217pt too wide) in paragraph at lines 316--353
+ [][] 
+ []
 
-<use  "Img/北半球风速趋势模拟.png" > [85] [86] [87]
+File: Img/北半球风速趋势模拟.png Graphic file (type QTm)
+<use  "Img/北半球风速趋势模拟.png" > [86] [87] [88]
 Overfull \hbox (0.3999pt too wide) in paragraph at lines 395--396
 []\TU/AdobeSongStd-Light(0)/m/n/12.045 受 到 地 表 风 速 普 遍 下 降 的 影 响，|  风 能 资 源 也 经
  历 了 明 显 减 少 的 过 程，| \T1/ntxtlf/m/n/12.045 2012-
  []
 
-) (./Tex/chap6.tex [88
+) (./Tex/chap6.tex [89
+
+] [90
 
 ]
 第6章
-[89
-
-] [90] [91])) [92] (./Thesis.bbl [93
+[91] [92] [93])) [94] (./Thesis.bbl [95
 
 
 
 
 ]
 Missing character: There is no ‐ in font ntx-Regular-tlf-t1!
- [94]
+ [96]
 Missing character: There is no ‐ in font ntx-Regular-tlf-t1!
- [95] [96] [97] [98] [99]
+ [97] [98] [99] [100] [101]
 Missing character: There is no ‐ in font ntx-Regular-tlf-t1!
 )
-(./Tex/Backmatter.tex [100] [101
+(./Tex/Backmatter.tex [102] [103
 
-] [102
+] [104
 
-] [103] [104])
+] [105] [106])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 89.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 89.
  (./Thesis.aux)
@@ -2961,12 +2962,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 47086 strings out of 493005
- 933380 string characters out of 6134597
- 953830 words of memory out of 5000000
- 50268 multiletter control sequences out of 15000+600000
+ 47136 strings out of 493005
+ 937395 string characters out of 6134597
+ 953832 words of memory out of 5000000
+ 50318 multiletter control sequences out of 15000+600000
  610019 words of font info for 164 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 69i,12n,94p,10522b,2492s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 69i,12n,94p,10522b,2520s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Thesis.pdf (126 pages).
+Output written on Thesis.pdf (128 pages).

@@ -9,15 +9,15 @@
 
 气压场的变化与大气运动驱动力变化直接相关。\citet{zhang2019increase}利用简化的动力学模型分析发现海平面气压场变化是1970年以来北半球陆地地表风速月变化的主导因素，\citet{wu2016estimating}发现海平面气压场可以很大程度上解释中国东部地区陆地地表风速的季节和年际变率。本章对全球冬季和夏季的海平面气压场长期趋势进行了分析，探究大尺度气压场变化对于陆地地表风速的影响。
 
-环流系统的变化是大气运动驱动力变化的重要反映，大尺度海温同样会影响大气驱动力，而环流系统与大尺度海温两者的变化又通常相互联系。例如，NAO的定义为500hPa位势高度场进行旋转经验正交分解（REOF）的第一模态，反映的是冰岛低压和亚速尔高压的强弱交替如跷跷板一般的变化\citep{wallace1981teleconnections}。诸多研究表明，NAO变率可以对欧洲地表风速产生显著影响\citep{beniston2005mountain, earl20131980–2010}，同时，NAO变率受到大西洋海温的影响\citep{frankignoul2005observed}。与NAO类似，AO的变率也会影响大尺度陆地地表风速\citep{chen2013wind}，也与海温有一定联系\citep{yasunaka2002regime}。大尺度海温模态太平洋年代际振荡（PDO）也被认为与大尺度陆地地表风速变化有一定联系\citep{fu2011temporal}。本章同样分析了环流系统及大尺度海温变化对于北半球陆地地表风速的影响。
+环流系统的变化是大气运动驱动力变化的重要反映，大尺度海温同样会影响大气驱动力，而环流系统与大尺度海温两者的变化又通常相互联系。例如，NAO的定义为500 $hPa$位势高度场进行旋转经验正交分解（REOF）的第一模态，反映的是冰岛低压和亚速尔高压的强弱交替如跷跷板一般的变化\citep{wallace1981teleconnections}。诸多研究表明，NAO变率可以对欧洲地表风速产生显著影响\citep{beniston2005mountain, earl20131980–2010}，同时，NAO变率受到大西洋海温的影响\citep{frankignoul2005observed}。与NAO类似，AO的变率也会影响大尺度陆地地表风速\citep{chen2013wind}，也与海温有一定联系\citep{yasunaka2002regime}。大尺度海温模态太平洋年代际振荡（PDO）也被认为与大尺度陆地地表风速变化有一定联系\citep{fu2011temporal}。本章同样分析了环流系统及大尺度海温变化对于北半球陆地地表风速的影响。
 
 \section{资料和方法}
 
 本章研究使用了以下数据集：
 
-IGRA V2全球探空数据集\citep{durre2006overview}由NOAA制作，包含全球超过2700个探空站点的观测数据。此数据集进行了一系列质量控制，对可疑和错误数据进行了标记。本章研究选取了1979-2016年850 hPa、700 hPa、500 hPa和200 hPa风速数据进行分析。为了保证数据质量，剔除了所有被标记为可疑和错误的数据；剔除了1981年1月的所有数据，因为此时间段数据有较大问题\citep{vautard2010northern}；若某站点在某年内在某个层次任意一个季节内有记录天数少于45天，则移除此站点当年在此层次所有数据，若此站点在此层次有记录年数少于20年，则移除此层次所有数据。经过质量控制后，850 hPa、700 hPa、500 hPa和200 hPa分别剩余558、578、559和527个站点。本章中对流层风速相关分析均是基于此数据集。
+IGRA V2全球探空数据集\citep{durre2006overview}由NOAA制作，包含全球超过2700个探空站点的观测数据。此数据集进行了一系列质量控制，对可疑和错误数据进行了标记。本章研究选取了1979-2016年850 $hPa$、700 $hPa$、500 $hPa$和200 $hPa$风速数据进行分析。为了保证数据质量，剔除了所有被标记为可疑和错误的数据；剔除了1981年1月的所有数据，因为此时间段数据有较大问题\citep{vautard2010northern}；若某站点在某年内在某个层次任意一个季节内有记录天数少于45天，则移除此站点当年在此层次所有数据，若此站点在此层次有记录年数少于20年，则移除此层次所有数据。经过质量控制后，850 $hPa$、700 $hPa$、500 $hPa$和200 $hPa$分别剩余558、578、559和527个站点。本章中对流层风速相关分析均是基于此数据集。
 
-\href{https://b2share.eudat.eu/records/159158152f4d4be79559e2f3f6b1a410}{高塔观测数据集}由巴塞罗那超算中心（BSC）制作，包含全球183个观测塔数据。此数据集针对风速进行了18项数据质量检测，删除了错误数据。此数据集中包含的观测序列大多时间较短，在北美洲仅有5个站点有30年以上的观测长度，因而选择此5个站点分析地表以上30 - 50 m高度风速变化。由于此5个站点均不包含10 m标准高度的风速观测，因而选取HadISD v3（\citet{dunn2012hadisd:}，此数据集由第二章使用到的NCEI-ISD整理而成，不同于NCEI-ISD以时间为单位存储，即每月的数据存储在一个文件中，此套数据以站点为单位存储，即每个站点的数据存储在一个文件中，更易于少量站点数据的读取）中与它们距离最近的站点风速进行对比。
+\href{https://b2share.eudat.eu/records/159158152f4d4be79559e2f3f6b1a410}{高塔观测数据集}由巴塞罗那超算中心（BSC）制作，包含全球183个观测塔数据。此数据集针对风速进行了18项数据质量检测，删除了错误数据。此数据集中包含的观测序列大多时间较短，在北美洲仅有5个站点有30年以上的观测长度，因而选择此5个站点分析地表以上30-50 $m$高度风速变化。由于此5个站点均不包含10 $m$标准高度的风速观测，因而选取HadISD v3（\citep{dunn2012hadisd:}，此数据集由第\ref{chap:SpatiotemporalCharacteristics}章使用到的NCEI-ISD整理而成，不同于NCEI-ISD以时间为单位存储，即每月的数据存储在一个文件中，此套数据以站点为单位存储，即每个站点的数据存储在一个文件中，更易于少量站点数据的读取）中与它们距离最近的站点风速进行对比。
 
 HadSLP2r全球海平面气压观测数据集\citep{allan2006a}由哈德莱中心（Hadley Centre）制作，包含1850年至今全球海平面气压场数据。此数据集使用ICOADS海洋观测数据和2228个陆地观测站数据，最终制作成$5 \times 5$度格点数据，并由NOAA PSD转换成NetCDF格式提供\href{https://www.esrl.noaa.gov/psd/gcos_wgsp/Gridded/data.hadslp2.html}{下载} 。此套数据进行了一系列质量控制减少人为误差造成的影响。本章使用此数据集1979-2016年数据分析全球海平面气压场的长期趋势。
 
@@ -25,7 +25,7 @@ HadSST3全球海表温度观测数据集\citep{kennedy2011reassessing1,kennedy20
 
 中国气象局国家气候中心\href{https://cmdp.ncc-cma.net/Monitoring/cn_index_130.php}{百项气候系统指数集}整理了130项大气环流、海温和其他指数，其中涵盖了ENSO，NAO、AO、PDO等环流和海温指数。经过检查，发现其中AO指数与其他研究存在较大差别，因而没有使用，转而使用NOAA计算的\href{https://www.ncdc.noaa.gov/teleconnections/ao/}{AO指数}。本章中使用这些环流和海温指数与陆地地表风速进行对比，以找出它们之间的联系。
 
-本章中计算线性趋势和统计显著性检验的方法与第二章相同。相关系数计算使用Pearson相关系数，计算方法如下：
+本章中计算线性趋势和统计显著性检验的方法与第\ref{chap:SpatiotemporalCharacteristics}章相同。相关系数计算使用Pearson相关系数，计算方法如下：
 
 \begin{equation} \label{eq:pearsoncorr}
 r = \frac{cov \left(A, ~ B \right)}{\sigma_{A}\sigma_{B}}
@@ -39,7 +39,7 @@ r = \frac{cov \left(A, ~ B \right)}{\sigma_{A}\sigma_{B}}
 \begin{figure}[!htbp]
     \centering
     \includegraphics[width=0.75\textwidth]{对流层风速趋势}
-    \bicaption{对流层风速趋势（$m ~ s^{-1}$每十年）。a）200 hPa，b）500 hPa，c）700 hPa，d）850 hPa，e）地面。}{Troposphere wind speed trends (in $m ~ s^{-1} ~ decade^{-1}$). a)200 hPa, b)500 hPa, c)600 hPa, d)850 hPa, e)Surface.}
+    \bicaption{对流层风速趋势（$m ~ s^{-1}$每十年）。a）200 $hPa$，b）500 $hPa$，c）700 $hPa$，d）850 $hPa$，e）地面。}{Troposphere wind speed trends (in $m ~ s^{-1} ~ decade^{-1}$). a)200 $hPa$, b)500 $hPa$, c)600 $hPa$, d)850 $hPa$, e)Surface.}
     \label{fig:tropospherewindtrend}
 \end{figure}
 
@@ -51,7 +51,7 @@ r = \frac{cov \left(A, ~ B \right)}{\sigma_{A}\sigma_{B}}
 \end{figure}
 
 
-使用IGRA V2探空风速数据计算了对流层850 hPa、700 hPa、500 hPa和200 hPa长期趋势，分别代表对流层低层、中低层、中层和高层的状况，发现风速的长期趋势在垂直方向上有很大的不均匀性，地表风速减弱最为剧烈，而对流层风速有微弱减小甚至增加（图 \ref{fig:tropospheremedianwindtrend}）。在北美洲，地表风速普遍减小，而自由大气风速在各个层次均出现上升（图 \ref{fig:tropospherewindtrend}）。为了进一步探究风速开始增加的高度，使用了5个观测塔资料（观测塔信息如图 \ref{fig:talltower}和表（观测塔与附近地面站点信息））分析，发现高度在40 m左右的5个观测塔风速均呈显著上升，相比之下，与其最邻近的地面站点有2个风速显著上升，2个风速显著下降，1个无明显趋势（图 \ref{fig:talltowerwindtrend1}， 图 \ref{fig:talltowerwindtrend2}）。由此可以推测，在地面附近几十米的高度就出现了风速普遍上升的情况。在欧洲，地表风速同样普遍下降，而850 - 500 hPa伊比利亚半岛风速出现上升，欧洲其他大部分地区风速普遍下降，200 hPa欧洲风速普遍上升。总体来看，欧洲各层次中位数风速中地表风速下降最快，约为 -0.1 $m ~ s^{-1}$每十年，850  hPa和700 hPa风速微弱下降，趋势在 -0.02 \textasciitilde -0.03 $m ~ s^{-1}$ 每十年，200 hPa风速上升，趋势为0.17 $m ~ s^{-1}$每十年。如果考虑到高层平均风速比底层大得多，归一化后的风速趋势只有在地表较为显著（图 \ref{fig:tropospherewindtrend}，图 \ref{fig:tropospheremedianwindtrend}）。因为亚洲站点跨越热带和中纬度两个气候带，将其以20 N为界分为两个部分进行分析，其中亚洲低纬度地区地表风速普遍下降，850和700 hPa开始出现较多风速增加站点，500和200 hPa相比对流层底层有风速增加站点减小。总体来看，风速在地表减小（-0.15 $m ~ s^{-1}$每十年），在对流层由低层到高层风速增加，增加幅度先增加再减小，200 hPa风速变化接近为零。归一化风速趋势上，亚洲低纬度风速下降明显快于北美洲、欧洲和亚洲中纬度地区，达到-6\% 每十年（图 \ref{fig:tropospherewindtrend}，图 \ref{fig:tropospheremedianwindtrend}）。亚洲中纬度地区，除中部地区风速上升，中国其他大部分地区地表风速普遍下降，日本地表风速上升的下降站点相当；850 hPa上，中国大部分地区风速微弱下降或无明显变化，日本风速微弱上升或无明显变化；700和500 hPa上，中国东部地区风速微弱下降或无明显变化，中国西北和中亚风速上升，日本风速下降；200 hPa上，除中国东南地区外，亚洲中纬度大部分地区风速普遍上升。总体来看，亚洲中纬度风速在地面下降较快（-0.75 $m ~ s^{-1}$每十年），850和700 hPa风速微弱下降（-0.25 $m ~ s^{-1}$每十年），200 hPa风速上升（0.17 $m ~ s^{-1}$每十年），归一化风速趋势只有在地表较为明显（图 \ref{fig:tropospherewindtrend}，图 \ref{fig:tropospheremedianwindtrend}）。
+使用IGRA V2探空风速数据计算了对流层850 $hPa$、700 $hPa$、500 $hPa$和200 $hPa$长期趋势，分别代表对流层低层、中低层、中层和高层的状况，发现风速的长期趋势在垂直方向上有很大的不均匀性，地表风速减弱最为剧烈，而对流层风速有微弱减小甚至增加（图 \ref{fig:tropospheremedianwindtrend}）。在北美洲，地表风速普遍减小，而自由大气风速在各个层次均出现上升（图 \ref{fig:tropospherewindtrend}）。为了进一步探究风速开始增加的高度，使用了5个观测塔资料（观测塔信息如图 \ref{fig:talltower}和表 \ref{tab:stationinfo}）分析，发现高度在40 $m$左右的5个观测塔风速均呈显著上升，相比之下，与其最邻近的地面站点有2个风速显著上升，2个风速显著下降，1个无明显趋势（图 \ref{fig:talltowerwindtrend1}， 图 \ref{fig:talltowerwindtrend2}）。由此可以推测，在地面附近几十米的高度就出现了风速普遍上升的情况。在欧洲，地表风速同样普遍下降，而850-500 $hPa$伊比利亚半岛风速出现上升，欧洲其他大部分地区风速普遍下降，200 $hPa$欧洲风速普遍上升。总体来看，欧洲各层次中位数风速中地表风速下降最快，约为 -0.1 $m ~ s^{-1}$每十年，850 $hPa$和700 $hPa$风速微弱下降，趋势在 -0.02 \textasciitilde -0.03 $m ~ s^{-1}$ 每十年，200 $hPa$风速上升，趋势为0.17 $m ~ s^{-1}$每十年。如果考虑到高层平均风速比底层大得多，归一化后的风速趋势只有在地表较为显著（图 \ref{fig:tropospherewindtrend}，图 \ref{fig:tropospheremedianwindtrend}）。因为亚洲站点跨越热带和中纬度两个气候带，将其以20 N为界分为两个部分进行分析，其中亚洲低纬度地区地表风速普遍下降，850和700 $hPa$开始出现较多风速增加站点，500和200 $hPa$相比对流层底层有风速增加站点减小。总体来看，风速在地表减小（-0.15 $m ~ s^{-1}$每十年），在对流层由低层到高层风速增加，增加幅度先增加再减小，200 $hPa$风速变化接近为零。归一化风速趋势上，亚洲低纬度风速下降明显快于北美洲、欧洲和亚洲中纬度地区，达到-6\% 每十年（图 \ref{fig:tropospherewindtrend}，图 \ref{fig:tropospheremedianwindtrend}）。亚洲中纬度地区，除中部地区风速上升，中国其他大部分地区地表风速普遍下降，日本地表风速上升的下降站点相当；850 $hPa$上，中国大部分地区风速微弱下降或无明显变化，日本风速微弱上升或无明显变化；700和500 $hPa$上，中国东部地区风速微弱下降或无明显变化，中国西北和中亚风速上升，日本风速下降；200 $hPa$上，除中国东南地区外，亚洲中纬度大部分地区风速普遍上升。总体来看，亚洲中纬度风速在地面下降较快（-0.75 $m ~ s^{-1}$每十年），850和700 $hPa$风速微弱下降（-0.25 $m ~ s^{-1}$每十年），200 $hPa$风速上升（0.17 $m ~ s^{-1}$每十年），归一化风速趋势只有在地表较为明显（图 \ref{fig:tropospherewindtrend}，图 \ref{fig:tropospheremedianwindtrend}）。
 
 
 \begin{figure}[!htbp]
@@ -71,7 +71,7 @@ r = \frac{cov \left(A, ~ B \right)}{\sigma_{A}\sigma_{B}}
     \begin{tabular}{lccccccc}
         \hline
         观测塔名称 & 观测塔经度 & 观测塔纬度 & 风速观测高度 & 距离最近地面 & 站点经度 & 站点纬度 & 风速观测高度 \\
-        & & & （地面以上 m）& 站点号 & & &（地面以上 m）\\
+        & & & （地面以上 $m$）& 站点号 & & &（地面以上 $m$）\\
         %\cline{2-9}% partial hline from column i to column j
         \hline
         Burl1 & -89.43 & 28.90 & 38 & 994010 & -89.43 & 28.91 & 10 \\
@@ -99,12 +99,12 @@ r = \frac{cov \left(A, ~ B \right)}{\sigma_{A}\sigma_{B}}
 
 \subsection{对流层风速年代际变化}
 
-全球平均来看，地表风速在2007年前迅速下降，气候趋于平稳；850 hPa风速先上升（1990年前），后下降（1990-2000），再上升（2000年后）三个阶段；700 hPa在2005年前与850 hPa变化类似，2005年后趋于平稳；500 hPa风速在1995年前快速上升，气候缓慢下降；200 hPa风速1990年前缓慢下降，1990-2000快速上升，其后又缓慢下降（图 \ref{fig:globaltroposhereevolution}）。在北美洲，地表风速经历了1987年前平稳时期，1987-2000缓慢下降时期，2000-2010快速下降时期和2010年后平稳时期；850和700 hPa，风速表现为1995年前快速上升时期，1995-2005缓慢上升时期和2005年后缓慢下降时期；500 hPa风速在1995年前快速上升，1995-2003缓慢下降，2003-2013又快速上升，其后在此出现下降；200 hPa风速在1988年前缓慢下降，1988-1995快速上升，1995-2005趋于平稳，2005年后再次快速上升（图 \ref{fig:NAtroposhereevolution}）。在欧洲，地表风速1990年前快速下降，1990-2000中速下降，2000年后慢速下降；850和700 hPa年代际变化较为类似，均在1985年前无明显变化，1985-1993上升，1993-2003下降，不同之处在于850 hPa在2003年后又开始缓慢上升，而700 hPa趋于平稳；500和200 hPa，风速均经历了1990年前平稳时期，1990-2000年上升时期，2000-2010年下降时期和2010年后再次缓慢上升时期（图 \ref{fig:EUtroposhereevolution}）。在亚洲低纬度地区，地表风速在1987年前快速下降，1987-1995年微弱上升，之后又快速下降；850 hPa在1990年前微弱上升，之后快速下降直到2000年，其后2000-2010再次缓慢上升，后又下降；700 hPa年代际变化不明显；500 hPa风速在1990年前缓慢上升，1990-2000缓慢下降，2000-2010快速上升，其后缓慢下降；200 hPa风速以2000年为界，前期风速上升，后期风速下降（图 \ref{fig:ASlowtroposhereevolution}）。在亚洲中纬度地区，地表风速在1990年前快速下降，1990-1997年趋于平稳，1997-2007再次快速下降，2007年后再次趋于平稳；850 hPa和700 hPa风速变化都以1990和2000为界分为三个时期，850 hPa风速在这三个时期表现分别为平稳、下降和上升，而700 hPa表现为缓慢下降，快速下降和上升；500 hPa风速没有表现出明显年代际变化；200 hPa风速仅在1993-2003有一段上升时期，之前和之后风速均较为平稳（图 \ref{fig:ASmidtroposhereevolution}）。
+全球平均来看，地表风速在2007年前迅速下降，气候趋于平稳；850 $hPa$风速先上升（1990年前），后下降（1990-2000），再上升（2000年后）三个阶段；700 $hPa$在2005年前与850 $hPa$变化类似，2005年后趋于平稳；500 $hPa$风速在1995年前快速上升，气候缓慢下降；200 $hPa$风速1990年前缓慢下降，1990-2000快速上升，其后又缓慢下降（图 \ref{fig:globaltroposhereevolution}）。在北美洲，地表风速经历了1987年前平稳时期，1987-2000缓慢下降时期，2000-2010快速下降时期和2010年后平稳时期；850和700 $hPa$，风速表现为1995年前快速上升时期，1995-2005缓慢上升时期和2005年后缓慢下降时期；500 $hPa$风速在1995年前快速上升，1995-2003缓慢下降，2003-2013又快速上升，其后在此出现下降；200 $hPa$风速在1988年前缓慢下降，1988-1995快速上升，1995-2005趋于平稳，2005年后再次快速上升（图 \ref{fig:NAtroposhereevolution}）。在欧洲，地表风速1990年前快速下降，1990-2000中速下降，2000年后慢速下降；850和700 $hPa$年代际变化较为类似，均在1985年前无明显变化，1985-1993上升，1993-2003下降，不同之处在于850 $hPa$在2003年后又开始缓慢上升，而700 $hPa$趋于平稳；500和200 $hPa$，风速均经历了1990年前平稳时期，1990-2000年上升时期，2000-2010年下降时期和2010年后再次缓慢上升时期（图 \ref{fig:EUtroposhereevolution}）。在亚洲低纬度地区，地表风速在1987年前快速下降，1987-1995年微弱上升，之后又快速下降；850 $hPa$在1990年前微弱上升，之后快速下降直到2000年，其后2000-2010再次缓慢上升，后又下降；700 $hPa$年代际变化不明显；500 $hPa$风速在1990年前缓慢上升，1990-2000缓慢下降，2000-2010快速上升，其后缓慢下降；200 $hPa$风速以2000年为界，前期风速上升，后期风速下降（图 \ref{fig:ASlowtroposhereevolution}）。在亚洲中纬度地区，地表风速在1990年前快速下降，1990-1997年趋于平稳，1997-2007再次快速下降，2007年后再次趋于平稳；850 $hPa$和700 $hPa$风速变化都以1990和2000为界分为三个时期，850 $hPa$风速在这三个时期表现分别为平稳、下降和上升，而700 $hPa$表现为缓慢下降，快速下降和上升；500 $hPa$风速没有表现出明显年代际变化；200 $hPa$风速仅在1993-2003有一段上升时期，之前和之后风速均较为平稳（图 \ref{fig:ASmidtroposhereevolution}）。
 
 \begin{figure}[!htbp]
     \centering
     \includegraphics[width=0.85\textwidth]{全球对流层中位数风速演变}
-    \bicaption{全球对流层中位数风速演变（$m ~ s^{-1}$）。a）地面，b）850 hPa，c）700 hPa，d）500 hPa，e）200 hPa。虚线为各年对应值，实线为虚线9点平滑的结果。}{Global median troposhere wind speed evolution (in $m ~ s^{-1}$). a)Surface, b)850 hPa, c)700 hPa, d)500 hPa, e)200 hPa. Dash line denotes values for every year, solid line is 9-point moving mean of dash line.}
+    \bicaption{全球对流层中位数风速演变（$m ~ s^{-1}$）。a）地面，b）850 $hPa$，c）700 $hPa$，d）500 $hPa$，e）200 $hPa$。虚线为各年对应值，实线为虚线9点平滑的结果。}{Global median troposhere wind speed evolution (in $m ~ s^{-1}$). a)Surface, b)850 $hPa$, c)700 $hPa$, d)500 $hPa$, e)200 $hPa$. Dash line denotes values for every year, solid line is 9-point moving mean of dash line.}
     \label{fig:globaltroposhereevolution}
 \end{figure}
 
@@ -125,14 +125,14 @@ r = \frac{cov \left(A, ~ B \right)}{\sigma_{A}\sigma_{B}}
 \begin{figure}[!t]
     \centering
     \includegraphics[width=0.85\textwidth]{亚洲低纬度对流层中位数风速演变}
-    \bicaption{亚洲低纬度（0 - 20 N）对流层中位数风速演变（$m ~ s^{-1}$）。与图 \ref{fig:globaltroposhereevolution}类似。}{Asian low latitude (0 - 20 N) median troposhere wind speed evolution (in $m ~ s^{-1}$). Same as \ref{fig:globaltroposhereevolution}, but for Asia low latitude.}
+    \bicaption{亚洲低纬度（0-20 N）对流层中位数风速演变（$m ~ s^{-1}$）。与图 \ref{fig:globaltroposhereevolution}类似。}{Asian low latitude (0-20 N) median troposhere wind speed evolution (in $m ~ s^{-1}$). Same as \ref{fig:globaltroposhereevolution}, but for Asia low latitude.}
     \label{fig:ASlowtroposhereevolution}
 \end{figure}
 
 \begin{figure}[!b]
     \centering
     \includegraphics[width=0.85\textwidth]{亚洲中纬度对流层中位数风速演变}
-    \bicaption{亚洲中纬度（20 - 55 N）对流层中位数风速演变（$m ~ s^{-1}$）。与图 \ref{fig:globaltroposhereevolution}类似。}{Asian mid latitude (20 - 55 N) median troposhere wind speed evolution (in $m ~ s^{-1}$). Same as \ref{fig:globaltroposhereevolution}, but for Asia mid latitude}
+    \bicaption{亚洲中纬度（20-55 N）对流层中位数风速演变（$m ~ s^{-1}$）。与图 \ref{fig:globaltroposhereevolution}类似。}{Asian mid latitude (20-55 N) median troposhere wind speed evolution (in $m ~ s^{-1}$). Same as \ref{fig:globaltroposhereevolution}, but for Asia mid latitude}
     \label{fig:ASmidtroposhereevolution}
 \end{figure}
 
@@ -154,7 +154,7 @@ r = \frac{cov \left(A, ~ B \right)}{\sigma_{A}\sigma_{B}}
 \begin{figure}[!htbp]
     \centering
     \includegraphics[width=0.63\textwidth]{风速与海温相关系数}
-    \bicaption{ 地表风速与海温相关系数。a）北美洲，b）欧洲，c）亚洲中纬度（20 - 55 N）和d）亚洲低纬度（0 - 20 N）中位数风速与海温相关。相关系数0.4对应 p = 0.01}{Correlation coefficient between surface wind speed and SST. Correlation coefficient between median wind speed of a)North America, b)Europe, c)Asia mid latitude (20 - 55 N), d)Asia low latitude (0 - 20 N) and SST. Correlation coefficient of 0.4 corresponds to p = 0.01.}
+    \bicaption{ 地表风速与海温相关系数。a）北美洲，b）欧洲，c）亚洲中纬度（20-55 N）和d）亚洲低纬度（0-20 N）中位数风速与海温相关。相关系数0.4对应 p = 0.01}{Correlation coefficient between surface wind speed and SST. Correlation coefficient between median wind speed of a)North America, b)Europe, c)Asia mid latitude (20-55 N), d)Asia low latitude (0-20 N) and SST. Correlation coefficient of 0.4 corresponds to p = 0.01.}
     \label{fig:windspeedcorrSST}
 \end{figure}
 
