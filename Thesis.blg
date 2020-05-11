@@ -8,45 +8,45 @@ Database file #1: Biblio/ref.bib
 Warning--empty key in 张人文2011珠江三角洲风场对空气质量的影响
 Warning--empty key in 刘学锋2012台站观测环境改变对我国近地面风速观测资料序列的影响
 Warning--empty key in 任雪娟2007北太平洋风暴轴的变异特征及其与中纬度海气耦合关系分析
-You've used 112 entries,
+You've used 115 entries,
             4429 wiz_defined-function locations,
-            1523 strings with 31253 characters,
-and the built_in function-call counts, 837098 in all, are:
-= -- 10016
-> -- 100545
-< -- 129802
-+ -- 35472
-- -- 1619
-* -- 6532
-:= -- 115255
-add.period$ -- 336
-call.type$ -- 112
-change.case$ -- 1169
-chr.to.int$ -- 32265
-cite$ -- 227
-duplicate$ -- 2563
-empty$ -- 6121
-format.name$ -- 2905
-if$ -- 215075
+            1537 strings with 31664 characters,
+and the built_in function-call counts, 852616 in all, are:
+= -- 10255
+> -- 102344
+< -- 132132
++ -- 36110
+- -- 1646
+* -- 6676
+:= -- 117392
+add.period$ -- 345
+call.type$ -- 115
+change.case$ -- 1194
+chr.to.int$ -- 32841
+cite$ -- 233
+duplicate$ -- 2632
+empty$ -- 6285
+format.name$ -- 2961
+if$ -- 219067
 int.to.chr$ -- 3
 int.to.str$ -- 1
 missing$ -- 0
-newline$ -- 569
-num.names$ -- 546
-pop$ -- 45508
+newline$ -- 584
+num.names$ -- 560
+pop$ -- 46356
 preamble$ -- 1
-purify$ -- 772
+purify$ -- 786
 quote$ -- 0
-skip$ -- 87462
+skip$ -- 89037
 stack$ -- 0
-substring$ -- 35401
-swap$ -- 251
-text.length$ -- 1224
+substring$ -- 36070
+swap$ -- 256
+text.length$ -- 1250
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 1864
+type$ -- 1915
 warning$ -- 3
-while$ -- 1734
+while$ -- 1775
 width$ -- 0
-write$ -- 1745
+write$ -- 1791
 (There were 3 warnings)

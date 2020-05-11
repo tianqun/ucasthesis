@@ -1,4 +1,4 @@
-\begin{thebibliography}{112}
+\begin{thebibliography}{115}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{#1}
 \expandafter\ifx\csname urlstyle\endcsname\relax\relax\else
@@ -39,6 +39,12 @@ ARCHER~C~L, JACOBSON~M~Z.
 \newblock Evaluation of global wind power\allowbreak[J].
 \newblock Journal of Geophysical Research: Atmospheres, 2005, 110\penalty0
   (D12).
+
+\bibitem[{Argueso {\biband} Businger(2018)Argueso and
+  Businger}]{argueso2018wind}
+ARGUESO~D, BUSINGER~S.
+\newblock Wind power characteristics of oahu, hawaii\allowbreak[J].
+\newblock Renewable Energy, 2018, 128:\penalty0 324-336.
 
 \bibitem[{Arora {\bibetal}(2011)Arora, Scinocca, Boer, Christian, Denman,
   Flato, Kharin, Lee, and Merryfield}]{arora2011carbon}
@@ -272,6 +278,12 @@ GUO~H, XU~M, HU~Q.
 HOLTON~J~R.
 \newblock An introduction to dynamic meteorology (4th ed.)\allowbreak[M].
 \newblock Elsevier Academic Press, MA, 2004.
+
+\bibitem[{Islam {\bibetal}(2011)Islam, Saidur, and Rahim}]{islam2011assessment}
+ISLAM~M~R, SAIDUR~R, RAHIM~N~A.
+\newblock Assessment of wind energy potentiality at kudat and labuan, malaysia
+  using weibull distribution function\allowbreak[J].
+\newblock Energy, 2011, 36\penalty0 (2):\penalty0 985-992.
 
 \bibitem[{Ji {\bibetal}(2014)Ji, Wang, Feng, Wu, Cheng, Zhang, Yang, Dong, Dai,
   Gong, et~al.}]{ji2014description}
@@ -626,6 +638,12 @@ WANG~C.
 \newblock Atlantic climate variability and its associated atmospheric
   circulation cells\allowbreak[J].
 \newblock Journal of Climate, 2002, 15\penalty0 (13):\penalty0 1516-1536.
+
+\bibitem[{Wang {\bibetal}(2016)Wang, Hu, and Ma}]{wang2016wind}
+WANG~J, HU~J, MA~K.
+\newblock Wind speed probability distribution estimation and wind energy
+  assessment\allowbreak[J].
+\newblock Renewable and Sustainable Energy Reviews, 2016, 60:\penalty0 881-899.
 
 \bibitem[{Wang {\bibetal}(2011)Wang, Wen, Yang, and Huang}]{wang2011cost}
 WANG~Q, WEN~F, YANG~A, et~al.

@@ -7,74 +7,74 @@
 \contentsline {figure}{\numberline {1.6}{\ignorespaces 外强迫对地表风速等影响。黑线为控制试验，即包含所有外强迫，红线为气溶胶不变的情况，蓝线为海表温度保持不变的情况，绿色为气溶胶和海表温度均保持不变的情况（来源：\citet {bichet2012causes}）\relax }}{10}{figure.caption.23}
 \contentsline {figure}{\numberline {1.7}{\ignorespaces 2000年风能资源分布。（来源：\citet {archer2005evaluation}）\relax }}{11}{figure.caption.24}
 \addvspace {10.0pt}
-\contentsline {figure}{\numberline {2.1}{\ignorespaces 全球年平均风速长期趋势（$m \nobreakspace {} s^{-1}$每十年）。图中三个框出的区域的范围分别为：北美洲 20-55 N，50-140 W；欧洲 30-70 N，20W-50 E；亚洲0-55 N，50-150 E。\relax }}{16}{figure.caption.25}
-\contentsline {figure}{\numberline {2.2}{\ignorespaces 欧洲分区图\relax }}{17}{figure.caption.26}
-\contentsline {figure}{\numberline {2.3}{\ignorespaces 百分位风速的演变（$m \nobreakspace {} s^{-1}$）。a）北美洲，b）欧洲，c）亚洲，d）全球。红色为90百分位，蓝色为50百分位，黑色为5、10、20、...、80、90、95百分位。\relax }}{18}{figure.caption.27}
-\contentsline {figure}{\numberline {2.4}{\ignorespaces 各大洲中位数风速趋势。a）全球，b）北美，c）欧洲，d）亚洲。紫色为春季，蓝色为夏季，绿色为秋季，红色为冬季，黑色为年平均。虚线为各年对应值，实线为虚线的线性趋势。\relax }}{20}{figure.caption.29}
-\contentsline {figure}{\numberline {2.5}{\ignorespaces 北美四季风速长期趋势 ($m \nobreakspace {} s^{-1}$每十年)。a）春季（3-5月），b）夏季（6-8），c）秋季（9-11月），d）冬季（12月-次年2月）\relax }}{21}{figure.caption.30}
-\contentsline {figure}{\numberline {2.6}{\ignorespaces 欧洲四季风速长期趋势。与图 \ref {fig:NAwindtrend} 类似。\relax }}{22}{figure.caption.31}
-\contentsline {figure}{\numberline {2.7}{\ignorespaces 亚洲四季风速长期趋势。与图 \ref {fig:NAwindtrend} 类似。\relax }}{22}{figure.caption.32}
-\contentsline {figure}{\numberline {2.8}{\ignorespaces 各大洲归一化风速趋势与海拔的关系。a）北美洲，b）欧洲，c）亚洲。\relax }}{23}{figure.caption.33}
-\contentsline {figure}{\numberline {2.9}{\ignorespaces 各大洲中位数风速年代际演变。a）全球，b）北美，c）欧洲，d）亚洲。紫色为春季，蓝色为夏季，绿色为秋季，红色为冬季，黑色为年平均。虚线为各年对应值，实线为虚线9点平滑的结果。底色为灰色、浅蓝、蓝色、深蓝的时段分别代表年平均风速无明显趋势、慢速下降、中速下降和快速下降。\relax }}{24}{figure.caption.34}
-\contentsline {figure}{\numberline {2.10}{\ignorespaces 观测及再分析资料风速长期线性趋势。a）全球，b）北美洲，c）欧洲，d）亚洲。虚线为年均值，实线为虚线的线性趋势。\relax }}{26}{figure.caption.35}
-\contentsline {figure}{\numberline {2.11}{\ignorespaces 观测及再分析资料风速年代际变化。a）全球，b）北美洲，c）欧洲，d）亚洲。虚线为年均值，实线为虚线9点平滑后的结果。\relax }}{28}{figure.caption.36}
+\contentsline {figure}{\numberline {2.1}{\ignorespaces NCEI-CMDC站点分布，黑色为NCEI站点，灰色为CMDC站点。\relax }}{15}{figure.caption.25}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces 全球年平均风速长期趋势（$m \nobreakspace {} s^{-1}$每十年）。图中三个框出的区域的范围分别为：北美洲 20-55 N，50-140 W；欧洲 30-70 N，20W-50 E；亚洲0-55 N，50-150 E。\relax }}{17}{figure.caption.26}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces 欧洲分区图\relax }}{17}{figure.caption.27}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces 百分位风速的演变（$m \nobreakspace {} s^{-1}$）。a）北美洲，b）欧洲，c）亚洲，d）全球。红色为90百分位，蓝色为50百分位，黑色为5、10、20、...、80、90、95百分位。\relax }}{18}{figure.caption.28}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces 各大洲中位数风速趋势。a）全球，b）北美，c）欧洲，d）亚洲。紫色为春季，蓝色为夏季，绿色为秋季，红色为冬季，黑色为年平均。虚线为各年对应值，实线为虚线的线性趋势。\relax }}{20}{figure.caption.30}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces 北美四季风速长期趋势 ($m \nobreakspace {} s^{-1}$每十年)。a）春季（3-5月），b）夏季（6-8），c）秋季（9-11月），d）冬季（12月-次年2月）\relax }}{21}{figure.caption.31}
+\contentsline {figure}{\numberline {2.7}{\ignorespaces 欧洲四季风速长期趋势。与图 \ref {fig:NAwindtrend} 类似。\relax }}{21}{figure.caption.32}
+\contentsline {figure}{\numberline {2.8}{\ignorespaces 亚洲四季风速长期趋势。与图 \ref {fig:NAwindtrend} 类似。\relax }}{22}{figure.caption.33}
+\contentsline {figure}{\numberline {2.9}{\ignorespaces 各大洲归一化风速趋势与海拔的关系。a）北美洲，b）欧洲，c）亚洲。\relax }}{23}{figure.caption.34}
+\contentsline {figure}{\numberline {2.10}{\ignorespaces 各大洲中位数风速年代际演变。a）全球，b）北美，c）欧洲，d）亚洲。紫色为春季，蓝色为夏季，绿色为秋季，红色为冬季，黑色为年平均。虚线为各年对应值，实线为虚线9点平滑的结果。底色为灰色、浅蓝、蓝色、深蓝的时段分别代表年平均风速无明显趋势、慢速下降、中速下降和快速下降。\relax }}{25}{figure.caption.35}
+\contentsline {figure}{\numberline {2.11}{\ignorespaces 观测及再分析资料风速长期线性趋势。a）全球，b）北美洲，c）欧洲，d）亚洲。虚线为年均值，实线为虚线的线性趋势。\relax }}{27}{figure.caption.36}
+\contentsline {figure}{\numberline {2.12}{\ignorespaces 观测及再分析资料风速年代际变化。a）全球，b）北美洲，c）欧洲，d）亚洲。虚线为年均值，实线为虚线9点平滑后的结果。\relax }}{28}{figure.caption.37}
 \addvspace {10.0pt}
-\contentsline {figure}{\numberline {3.1}{\ignorespaces 对流层风速趋势（$m \nobreakspace {} s^{-1}$每十年）。a）200 $hPa$，b）500 $hPa$，c）700 $hPa$，d）850 $hPa$，e）地面。\relax }}{34}{figure.caption.37}
-\contentsline {figure}{\numberline {3.2}{\ignorespaces 对流层中位数风速趋势（$m \nobreakspace {} s^{-1}$每十年）。a）原始风速趋势，b）归一化风速趋势，即原始风速趋势/平均风速。红线为北美洲，蓝线为欧洲，绿线为亚洲低纬度地区（0-20 N），紫线为亚洲中纬度地区（20-55 N）。\relax }}{35}{figure.caption.38}
-\contentsline {figure}{\numberline {3.3}{\ignorespaces 北美观测塔分布\relax }}{36}{figure.caption.39}
-\contentsline {figure}{\numberline {3.4}{\ignorespaces 北美观测塔风速趋势（第一部分）。d）994010、e）723075、f）727970分别为距离观测塔a）Burl1、b）Chlv2、c）Desw1最近的地面观测站点。\relax }}{37}{figure.caption.41}
-\contentsline {figure}{\numberline {3.5}{\ignorespaces 北美观测塔风速趋势（第二部分）。c）717490、d）727440分别为距离观测塔a）Roam4、b）Stdm4最近的地面观测站点。\relax }}{38}{figure.caption.42}
-\contentsline {figure}{\numberline {3.6}{\ignorespaces 全球对流层中位数风速演变（$m \nobreakspace {} s^{-1}$）。a）地面，b）850 $hPa$，c）700 $hPa$，d）500 $hPa$，e）200 $hPa$。虚线为各年对应值，实线为虚线9点平滑的结果。\relax }}{39}{figure.caption.43}
-\contentsline {figure}{\numberline {3.7}{\ignorespaces 北美洲对流层中位数风速演变（$m \nobreakspace {} s^{-1}$）。与图 \ref {fig:globaltroposhereevolution}类似。\relax }}{40}{figure.caption.44}
-\contentsline {figure}{\numberline {3.8}{\ignorespaces 欧洲对流层中位数风速演变（$m \nobreakspace {} s^{-1}$）。与图 \ref {fig:globaltroposhereevolution}类似。\relax }}{40}{figure.caption.45}
-\contentsline {figure}{\numberline {3.9}{\ignorespaces 亚洲低纬度（0-20 N）对流层中位数风速演变（$m \nobreakspace {} s^{-1}$）。与图 \ref {fig:globaltroposhereevolution}类似。\relax }}{41}{figure.caption.46}
-\contentsline {figure}{\numberline {3.10}{\ignorespaces 亚洲中纬度（20-55 N）对流层中位数风速演变（$m \nobreakspace {} s^{-1}$）。与图 \ref {fig:globaltroposhereevolution}类似。\relax }}{41}{figure.caption.47}
-\contentsline {figure}{\numberline {3.11}{\ignorespaces 海平面气压变化（hPa每十年）。a)一月海平面气压趋势，b）七月海平面气压趋势。\relax }}{42}{figure.caption.48}
-\contentsline {figure}{\numberline {3.12}{\ignorespaces 地表风速与海温相关系数。a）北美洲，b）欧洲，c）亚洲中纬度（20-55 N）和d）亚洲低纬度（0-20 N）中位数风速与海温相关。相关系数0.4对应 p = 0.01\relax }}{44}{figure.caption.49}
-\contentsline {figure}{\numberline {3.13}{\ignorespaces 北美风速与TNA指数演变。黑色（红色）虚线为北美洲中位数风速（TNA指数年平均值），实线为虚线9年滑动平均结果，两实线的相关系数为0.95，p < 0.01。\relax }}{45}{figure.caption.50}
-\contentsline {figure}{\numberline {3.14}{\ignorespaces 欧洲风速与NAO指数演变。黑色（红色）虚线为欧洲中位数风速（NAO指数年平均值），实线为虚线9年滑动平均结果，两实线的相关系数为0.48，p < 0.01。\relax }}{45}{figure.caption.51}
-\contentsline {figure}{\numberline {3.15}{\ignorespaces 亚洲中纬度风速与西太平洋暖池面积指数（WPWPA）和PDO指数演变。黑色（红色）虚线为亚洲中纬度地区中位数风速（PDO指数年均值 $\times $-0.88 $+$ 去趋势WPWPA指数年均值 $\times $ -1.44），实线为虚线9年滑动平均结果，两实线的相关系数为0.28，p < 0.1。\relax }}{46}{figure.caption.52}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces 对流层风速趋势（$m \nobreakspace {} s^{-1}$每十年）。a）200 $hPa$，b）500 $hPa$，c）700 $hPa$，d）850 $hPa$，e）地面。\relax }}{34}{figure.caption.38}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces 对流层中位数风速趋势（$m \nobreakspace {} s^{-1}$每十年）。a）原始风速趋势，b）归一化风速趋势，即原始风速趋势/平均风速。红线为北美洲，蓝线为欧洲，绿线为亚洲低纬度地区（0-20 N），紫线为亚洲中纬度地区（20-55 N）。\relax }}{35}{figure.caption.39}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces 北美观测塔分布\relax }}{36}{figure.caption.40}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces 北美观测塔风速趋势（第一部分）。d）994010、e）723075、f）727970分别为距离观测塔a）Burl1、b）Chlv2、c）Desw1最近的地面观测站点。\relax }}{37}{figure.caption.42}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces 北美观测塔风速趋势（第二部分）。c）717490、d）727440分别为距离观测塔a）Roam4、b）Stdm4最近的地面观测站点。\relax }}{38}{figure.caption.43}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces 全球对流层中位数风速演变（$m \nobreakspace {} s^{-1}$）。a）地面，b）850 $hPa$，c）700 $hPa$，d）500 $hPa$，e）200 $hPa$。虚线为各年对应值，实线为虚线9点平滑的结果。\relax }}{39}{figure.caption.44}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces 北美洲对流层中位数风速演变（$m \nobreakspace {} s^{-1}$）。与图 \ref {fig:globaltroposhereevolution}类似。\relax }}{40}{figure.caption.45}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces 欧洲对流层中位数风速演变（$m \nobreakspace {} s^{-1}$）。与图 \ref {fig:globaltroposhereevolution}类似。\relax }}{40}{figure.caption.46}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces 亚洲低纬度（0-20 N）对流层中位数风速演变（$m \nobreakspace {} s^{-1}$）。与图 \ref {fig:globaltroposhereevolution}类似。\relax }}{41}{figure.caption.47}
+\contentsline {figure}{\numberline {3.10}{\ignorespaces 亚洲中纬度（20-55 N）对流层中位数风速演变（$m \nobreakspace {} s^{-1}$）。与图 \ref {fig:globaltroposhereevolution}类似。\relax }}{41}{figure.caption.48}
+\contentsline {figure}{\numberline {3.11}{\ignorespaces 海平面气压变化（hPa每十年）。a)一月海平面气压趋势，b）七月海平面气压趋势。\relax }}{42}{figure.caption.49}
+\contentsline {figure}{\numberline {3.12}{\ignorespaces 地表风速与海温相关系数。a）北美洲，b）欧洲，c）亚洲中纬度（20-55 N）和d）亚洲低纬度（0-20 N）中位数风速与海温相关。相关系数0.4对应 p = 0.01\relax }}{44}{figure.caption.50}
+\contentsline {figure}{\numberline {3.13}{\ignorespaces 北美风速与TNA指数演变。黑色（红色）虚线为北美洲中位数风速（TNA指数年平均值），实线为虚线9年滑动平均结果，两实线的相关系数为0.95，p < 0.01。\relax }}{45}{figure.caption.51}
+\contentsline {figure}{\numberline {3.14}{\ignorespaces 欧洲风速与NAO指数演变。黑色（红色）虚线为欧洲中位数风速（NAO指数年平均值），实线为虚线9年滑动平均结果，两实线的相关系数为0.48，p < 0.01。\relax }}{45}{figure.caption.52}
+\contentsline {figure}{\numberline {3.15}{\ignorespaces 亚洲中纬度风速与西太平洋暖池面积指数（WPWPA）和PDO指数演变。黑色（红色）虚线为亚洲中纬度地区中位数风速（PDO指数年均值 $\times $-0.88 $+$ 去趋势WPWPA指数年均值 $\times $ -1.44），实线为虚线9年滑动平均结果，两实线的相关系数为0.28，p < 0.1。\relax }}{46}{figure.caption.53}
+\contentsline {figure}{\numberline {3.16}{\ignorespaces 亚洲中纬度风速与PDO指数演变。黑色（红色）虚线为亚洲中纬度地区中位数风速（PDO指数年均值 ），实线为虚线9年滑动平均结果。\relax }}{47}{figure.caption.54}
 \addvspace {10.0pt}
-\contentsline {figure}{\numberline {4.1}{\ignorespaces 城市扩张速度（变化率 每十年)\relax }}{53}{figure.caption.53}
-\contentsline {figure}{\numberline {4.2}{\ignorespaces 归一化地表风速趋势（变化率 每十年）\relax }}{53}{figure.caption.54}
-\contentsline {figure}{\numberline {4.3}{\ignorespaces 城市扩张速度与对应地区风速变化\relax }}{54}{figure.caption.55}
-\contentsline {figure}{\numberline {4.4}{\ignorespaces 不同城市化速度地区风速演变。红色实线为快速城市化的城市附近站点风速演变，蓝色实线为所有靠近城市站点风速演变，黑色实线为所有站点风速演变。虚线为对应实线的线性趋势。\relax }}{54}{figure.caption.56}
-\contentsline {figure}{\numberline {4.5}{\ignorespaces 珠江三角洲地理位置\relax }}{55}{figure.caption.57}
-\contentsline {figure}{\numberline {4.6}{\ignorespaces 珠江三角洲城市扩张。a）1980年城市范围，b）2015年城市范围，c）2015年相对1980年城市范围的变化，白色表示没有变化，红色表示增加，蓝色表示减少。\relax }}{56}{figure.caption.58}
-\contentsline {figure}{\numberline {4.7}{\ignorespaces 模拟区域\relax }}{57}{figure.caption.59}
-\contentsline {figure}{\numberline {4.8}{\ignorespaces 珠江三角洲测站位置\relax }}{57}{figure.caption.60}
-\contentsline {figure}{\numberline {4.9}{\ignorespaces 城市化对地表风速的影响（$m \nobreakspace {} s^{-1}$）。a）使用2015年6月气象场模拟结果，b）使用2015年12月气象场模拟结果，矢量箭头为对应时间背景风矢量。\relax }}{59}{figure.caption.62}
-\contentsline {figure}{\numberline {4.10}{\ignorespaces 珠江三角洲模拟与观测风速变化（变化率）。a）模拟结果，b）观测结果。\relax }}{59}{figure.caption.63}
-\contentsline {figure}{\numberline {4.11}{\ignorespaces 珠江三角洲20世纪70年代末与2015年城市化状况下风速概率密度分布。红色（蓝色）实线为使用20世纪70年代末城市化状况（2015年城市化状况）的模拟结果。\relax }}{60}{figure.caption.64}
-\contentsline {figure}{\numberline {4.12}{\ignorespaces 北半球植被生长季NDVI趋势( 每十年）\relax }}{61}{figure.caption.65}
-\contentsline {figure}{\numberline {4.13}{\ignorespaces 芬兰植被分布与变化。a）芬兰2001年林地分布，b）芬兰2016相对2001植被变化，绿色为林地变化，红色为除林地外其他植被变化。\relax }}{61}{figure.caption.66}
-\contentsline {figure}{\numberline {4.14}{\ignorespaces 芬兰站点风速趋势与附近NDVI趋势\relax }}{62}{figure.caption.67}
-\contentsline {figure}{\numberline {4.15}{\ignorespaces 芬兰站点分布\relax }}{63}{figure.caption.68}
-\contentsline {figure}{\numberline {4.16}{\ignorespaces 模拟区域\relax }}{63}{figure.caption.69}
-\contentsline {figure}{\numberline {4.17}{\ignorespaces 南芬兰林地变化。绿色为增加，黄色为减少。\relax }}{65}{figure.caption.71}
-\contentsline {figure}{\numberline {4.18}{\ignorespaces 林地变化对地表风速的影响。a）使用2001年1月气象场模拟结果（$ m \nobreakspace {} s^{-1}$），b）使用2001年7月气象场模拟结果（$ m \nobreakspace {} s^{-1}$），c）a和b模拟结果平均归一化的结果。\relax }}{65}{figure.caption.72}
-\contentsline {figure}{\numberline {4.19}{\ignorespaces 近地层垂直温度递减率趋势( 每十年）\relax }}{66}{figure.caption.73}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces 城市扩张速度（变化率 每十年)\relax }}{53}{figure.caption.55}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces 归一化地表风速趋势（变化率 每十年）\relax }}{53}{figure.caption.56}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces 城市扩张速度与对应地区风速变化\relax }}{54}{figure.caption.57}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces 不同城市化速度地区风速演变。红色实线为快速城市化的城市附近站点风速演变，蓝色实线为所有靠近城市站点风速演变，黑色实线为所有站点风速演变。虚线为对应实线的线性趋势。\relax }}{54}{figure.caption.58}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces 珠江三角洲地理位置\relax }}{56}{figure.caption.59}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces 珠江三角洲城市扩张。a）1980年城市范围，b）2015年城市范围，c）2015年相对1980年城市范围的变化，白色表示没有变化，红色表示增加，蓝色表示减少。\relax }}{58}{figure.caption.60}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces 模拟区域\relax }}{59}{figure.caption.61}
+\contentsline {figure}{\numberline {4.8}{\ignorespaces 珠江三角洲测站位置\relax }}{59}{figure.caption.62}
+\contentsline {figure}{\numberline {4.9}{\ignorespaces 城市化对地表风速的影响（$m \nobreakspace {} s^{-1}$）。a）使用2015年6月气象场模拟结果，b）使用2015年12月气象场模拟结果，矢量箭头为对应时间背景风矢量。\relax }}{60}{figure.caption.64}
+\contentsline {figure}{\numberline {4.10}{\ignorespaces 珠江三角洲模拟与观测风速变化（变化率）。a）模拟结果，b）观测结果。\relax }}{60}{figure.caption.65}
+\contentsline {figure}{\numberline {4.11}{\ignorespaces 珠江三角洲20世纪70年代末与2015年城市化状况下风速概率密度分布。红色（蓝色）实线为使用20世纪70年代末城市化状况（2015年城市化状况）的模拟结果。\relax }}{61}{figure.caption.66}
+\contentsline {figure}{\numberline {4.12}{\ignorespaces 北半球植被生长季NDVI趋势( 每十年）\relax }}{62}{figure.caption.67}
+\contentsline {figure}{\numberline {4.13}{\ignorespaces 芬兰植被分布与变化。a）芬兰2001年林地分布，b）芬兰2016相对2001植被变化，绿色为林地变化，红色为除林地外其他植被变化。\relax }}{62}{figure.caption.68}
+\contentsline {figure}{\numberline {4.14}{\ignorespaces 芬兰站点风速趋势与附近NDVI趋势\relax }}{63}{figure.caption.69}
+\contentsline {figure}{\numberline {4.15}{\ignorespaces 芬兰站点分布\relax }}{64}{figure.caption.70}
+\contentsline {figure}{\numberline {4.16}{\ignorespaces 模拟区域\relax }}{64}{figure.caption.71}
+\contentsline {figure}{\numberline {4.17}{\ignorespaces 南芬兰林地变化。绿色为增加，黄色为减少。\relax }}{66}{figure.caption.73}
+\contentsline {figure}{\numberline {4.18}{\ignorespaces 林地变化对地表风速的影响。a）使用2001年1月气象场模拟结果（$ m \nobreakspace {} s^{-1}$），b）使用2001年7月气象场模拟结果（$ m \nobreakspace {} s^{-1}$），c）a和b模拟结果平均归一化的结果。\relax }}{66}{figure.caption.74}
+\contentsline {figure}{\numberline {4.19}{\ignorespaces 近地层垂直温度递减率趋势( 每十年）\relax }}{67}{figure.caption.75}
 \addvspace {10.0pt}
-\contentsline {figure}{\numberline {5.1}{\ignorespaces 风电装机容量历史变化。来源：\href {https://www.ren21.net/wp-content/uploads/2019/05/gsr_2019_full_report_en.pdf}{REN21 2019 global status report}。\relax }}{70}{figure.caption.75}
-\contentsline {figure}{\numberline {5.2}{\ignorespaces 北半球风能密度（ $W \nobreakspace {} m^{-2}$）\relax }}{74}{figure.caption.78}
-\contentsline {figure}{\numberline {5.3}{\ignorespaces 北美风能密度（$ W \nobreakspace {} m^{-2}$）\relax }}{74}{figure.caption.79}
-\contentsline {figure}{\numberline {5.4}{\ignorespaces 美国风机分布。来源：\href {https://www.usda.gov/oce/energy/files/FINAL-Wind_Energy_Land_Distribution_in_the_United_States_of_America_7282017.pdf}{Wind Energy Land Distribution In The United States of America}。\relax }}{75}{figure.caption.80}
-\contentsline {figure}{\numberline {5.5}{\ignorespaces 欧洲风能密度（$ W \nobreakspace {} m^{-2}$）\relax }}{76}{figure.caption.81}
-\contentsline {figure}{\numberline {5.6}{\ignorespaces 欧洲风机分布。来源：\href {https://setis.ec.europa.eu/sites/default/files/reports/emhires_dataset_part_i_wind_power_generation_0.pdf}{EMHIRES dataset Part I: Wind power generation}。\relax }}{76}{figure.caption.82}
-\contentsline {figure}{\numberline {5.7}{\ignorespaces 亚洲风能密度（$ W \nobreakspace {} m^{-2}$）\relax }}{77}{figure.caption.83}
-\contentsline {figure}{\numberline {5.8}{\ignorespaces 中国风电场分布及装机容量。来源：\citet {wang2011cost}。\relax }}{78}{figure.caption.84}
-\contentsline {figure}{\numberline {5.9}{\ignorespaces 北半球中位数风能密度演变（$ W \nobreakspace {} m^{-2}$）。虚线为年平均值，实线为年平均值9点平滑后结果。\relax }}{79}{figure.caption.85}
-\contentsline {figure}{\numberline {5.10}{\ignorespaces 北半球风能密度变化。a) 风能密度变化（$W \nobreakspace {} m^{-2}$），b）归一化风能密度变化。\relax }}{80}{figure.caption.86}
-\contentsline {figure}{\numberline {5.11}{\ignorespaces 北美洲风能密度变化（变化率）\relax }}{81}{figure.caption.87}
-\contentsline {figure}{\numberline {5.12}{\ignorespaces 北美大于3类风力站点风能密度变化 (变化率)\relax }}{81}{figure.caption.88}
-\contentsline {figure}{\numberline {5.13}{\ignorespaces 北美洲风能密度演变（$ W \nobreakspace {} m^{-2}$）。a）所有站点中位数风能密度演变，b）超过3类风力站点中位数风能密度演变。虚线为年平均值，实线为年平均值9点平滑后结果。\relax }}{82}{figure.caption.89}
-\contentsline {figure}{\numberline {5.14}{\ignorespaces 欧洲风能密度变化（变化率）\relax }}{82}{figure.caption.90}
-\contentsline {figure}{\numberline {5.15}{\ignorespaces 欧洲大于3类风力站点风能密度变化 (变化率)\relax }}{83}{figure.caption.91}
-\contentsline {figure}{\numberline {5.16}{\ignorespaces 欧洲风能密度演变（$ W \nobreakspace {} m^{-2}$）。与图 \ref {fig:NAwindpowerevolution}类似。\relax }}{83}{figure.caption.92}
-\contentsline {figure}{\numberline {5.17}{\ignorespaces 亚洲风能密度变化（变化率）\relax }}{84}{figure.caption.93}
-\contentsline {figure}{\numberline {5.18}{\ignorespaces 中国大于3类风力站点风能密度变化 (变化率)\relax }}{85}{figure.caption.94}
-\contentsline {figure}{\numberline {5.19}{\ignorespaces 中国风能密度演变（$ W \nobreakspace {} m^{-2}$）。与图 \ref {fig:NAwindpowerevolution}类似。\relax }}{85}{figure.caption.95}
-\contentsline {figure}{\numberline {5.20}{\ignorespaces 全球气候模式模拟的北半球风速趋势。彩色线为模式结果，黑色线为观测结果。\relax }}{88}{figure.caption.98}
-\addvspace {10.0pt}
-\addvspace {10.0pt}
+\contentsline {figure}{\numberline {5.1}{\ignorespaces 风电装机容量历史变化。来源：\href {https://www.ren21.net/wp-content/uploads/2019/05/gsr_2019_full_report_en.pdf}{REN21 2019 global status report}。\relax }}{70}{figure.caption.77}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces 北半球风能密度（ $W \nobreakspace {} m^{-2}$）\relax }}{74}{figure.caption.80}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces 北美风能密度（$ W \nobreakspace {} m^{-2}$）\relax }}{75}{figure.caption.81}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces 美国风机分布。来源：\href {https://www.usda.gov/oce/energy/files/FINAL-Wind_Energy_Land_Distribution_in_the_United_States_of_America_7282017.pdf}{Wind Energy Land Distribution In The United States of America}。\relax }}{75}{figure.caption.82}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces 欧洲风能密度（$ W \nobreakspace {} m^{-2}$）\relax }}{76}{figure.caption.83}
+\contentsline {figure}{\numberline {5.6}{\ignorespaces 欧洲风机分布。来源：\href {https://setis.ec.europa.eu/sites/default/files/reports/emhires_dataset_part_i_wind_power_generation_0.pdf}{EMHIRES dataset Part I: Wind power generation}。\relax }}{76}{figure.caption.84}
+\contentsline {figure}{\numberline {5.7}{\ignorespaces 亚洲风能密度（$ W \nobreakspace {} m^{-2}$）\relax }}{77}{figure.caption.85}
+\contentsline {figure}{\numberline {5.8}{\ignorespaces 中国风电场分布及装机容量。来源：\citet {wang2011cost}。\relax }}{78}{figure.caption.86}
+\contentsline {figure}{\numberline {5.9}{\ignorespaces 北半球中位数风能密度演变（$ W \nobreakspace {} m^{-2}$）。虚线为年平均值，实线为年平均值9点平滑后结果。\relax }}{79}{figure.caption.87}
+\contentsline {figure}{\numberline {5.10}{\ignorespaces 北半球风能密度变化。a) 风能密度变化（$W \nobreakspace {} m^{-2}$），b）归一化风能密度变化。\relax }}{80}{figure.caption.88}
+\contentsline {figure}{\numberline {5.11}{\ignorespaces 北美洲风能密度变化（变化率）\relax }}{81}{figure.caption.89}
+\contentsline {figure}{\numberline {5.12}{\ignorespaces 北美大于3类风力站点风能密度变化 (变化率)\relax }}{81}{figure.caption.90}
+\contentsline {figure}{\numberline {5.13}{\ignorespaces 北美洲风能密度演变（$ W \nobreakspace {} m^{-2}$）。a）所有站点中位数风能密度演变，b）超过3类风力站点中位数风能密度演变。虚线为年平均值，实线为年平均值9点平滑后结果。\relax }}{82}{figure.caption.91}
+\contentsline {figure}{\numberline {5.14}{\ignorespaces 欧洲风能密度变化（变化率）\relax }}{82}{figure.caption.92}
+\contentsline {figure}{\numberline {5.15}{\ignorespaces 欧洲大于3类风力站点风能密度变化 (变化率)\relax }}{83}{figure.caption.93}
+\contentsline {figure}{\numberline {5.16}{\ignorespaces 欧洲风能密度演变（$ W \nobreakspace {} m^{-2}$）。与图 \ref {fig:NAwindpowerevolution}类似。\relax }}{83}{figure.caption.94}
+\contentsline {figure}{\numberline {5.17}{\ignorespaces 亚洲风能密度变化（变化率）\relax }}{84}{figure.caption.95}
+\contentsline {figure}{\numberline {5.18}{\ignorespaces 中国大于3类风力站点风能密度变化 (变化率)\relax }}{85}{figure.caption.96}
+\contentsline {figure}{\numberline {5.19}{\ignorespaces 中国风能密度演变（$ W \nobreakspace {} m^{-2}$）。与图 \ref {fig:NAwindpowerevolution}类似。\relax }}{85}{figure.caption.97}
+\contentsline {figure}{\numberline {5.20}{\ignorespaces 全球气候模式模拟的北半球风速趋势。彩色线为模式结果，黑色线为观测结果。\relax }}{88}{figure.caption.100}
 \addvspace {10.0pt}

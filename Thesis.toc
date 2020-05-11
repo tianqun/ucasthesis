@@ -11,11 +11,11 @@
 \contentsline {section}{\numberline {2.3}北半球陆地地表风速长期线性趋势}{16}{section.2.3}
 \contentsline {subsection}{\numberline {2.3.1}陆地地表风速长期线性趋势的空间特征}{16}{subsection.2.3.1}
 \contentsline {subsection}{\numberline {2.3.2}百分位风速长期线性趋势}{18}{subsection.2.3.2}
-\contentsline {subsection}{\numberline {2.3.3}四季风速长期线性趋势}{19}{subsection.2.3.3}
-\contentsline {subsection}{\numberline {2.3.4}不同海拔站点风速长期线性趋势}{21}{subsection.2.3.4}
-\contentsline {section}{\numberline {2.4}北半球陆地地表风速趋势的年代际变化}{23}{section.2.4}
-\contentsline {section}{\numberline {2.5}北半球陆地地表风速长期变化的不确定性分析}{25}{section.2.5}
-\contentsline {subsection}{\numberline {2.5.1}风速长期线性趋势的不确定性}{25}{subsection.2.5.1}
+\contentsline {subsection}{\numberline {2.3.3}四季风速长期线性趋势}{20}{subsection.2.3.3}
+\contentsline {subsection}{\numberline {2.3.4}不同海拔站点风速长期线性趋势}{22}{subsection.2.3.4}
+\contentsline {section}{\numberline {2.4}北半球陆地地表风速趋势的年代际变化}{24}{section.2.4}
+\contentsline {section}{\numberline {2.5}北半球陆地地表风速长期变化的不确定性分析}{26}{section.2.5}
+\contentsline {subsection}{\numberline {2.5.1}风速长期线性趋势的不确定性}{26}{subsection.2.5.1}
 \contentsline {subsection}{\numberline {2.5.2}风速趋势年代际变化的不确定性}{27}{subsection.2.5.2}
 \contentsline {section}{\numberline {2.6}本章小结}{29}{section.2.6}
 \contentsline {chapter}{\numberline {第3章\hspace {.3em}}大气运动驱动力变化对陆地地表风速长期变化的影响}{31}{chapter.3}
@@ -23,7 +23,7 @@
 \contentsline {section}{\numberline {3.2}资料和方法}{32}{section.3.2}
 \contentsline {section}{\numberline {3.3}对流层风速长期变化}{33}{section.3.3}
 \contentsline {subsection}{\numberline {3.3.1}对流层风速长期线性趋势}{33}{subsection.3.3.1}
-\contentsline {subsection}{\numberline {3.3.2}对流层风速年代际变化}{36}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.2}对流层风速年代际变化}{38}{subsection.3.3.2}
 \contentsline {section}{\numberline {3.4}气压场变化的影响}{42}{section.3.4}
 \contentsline {section}{\numberline {3.5}大尺度海温和环流系统变化的影响}{43}{section.3.5}
 \contentsline {section}{\numberline {3.6}本章小结}{47}{section.3.6}
@@ -33,11 +33,11 @@
 \contentsline {section}{\numberline {4.3}城市化的影响}{52}{section.4.3}
 \contentsline {subsection}{\numberline {4.3.1}基于城市动态变化和风速观测数据的统计学分析}{52}{subsection.4.3.1}
 \contentsline {subsection}{\numberline {4.3.2}数值试验}{55}{subsection.4.3.2}
-\contentsline {section}{\numberline {4.4}植被变化的影响}{60}{section.4.4}
-\contentsline {subsection}{\numberline {4.4.1}基于NDVI和风速观测数据的统计学分析}{60}{subsection.4.4.1}
-\contentsline {subsection}{\numberline {4.4.2}数值试验}{62}{subsection.4.4.2}
-\contentsline {section}{\numberline {4.5}大气稳定度变化的影响}{66}{section.4.5}
-\contentsline {section}{\numberline {4.6}本章小结}{66}{section.4.6}
+\contentsline {section}{\numberline {4.4}植被变化的影响}{61}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}基于NDVI和风速观测数据的统计学分析}{61}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}数值试验}{61}{subsection.4.4.2}
+\contentsline {section}{\numberline {4.5}大气稳定度变化的影响}{67}{section.4.5}
+\contentsline {section}{\numberline {4.6}本章小结}{67}{section.4.6}
 \contentsline {chapter}{\numberline {第5章\hspace {.3em}}北半球陆地地表风速长期变化对风能资源的影响}{69}{chapter.5}
 \contentsline {section}{\numberline {5.1}引言}{69}{section.5.1}
 \contentsline {section}{\numberline {5.2}资料和方法}{71}{section.5.2}
@@ -49,6 +49,4 @@
 \contentsline {section}{\numberline {6.1}本文主要结论}{91}{section.6.1}
 \contentsline {section}{\numberline {6.2}问题与展望}{93}{section.6.2}
 \contentsline {section}{\numberline {6.3}本文主要创新点}{94}{section.6.3}
-\contentsline {chapter}{参考文献}{95}{section*.99}
-\contentsline {chapter}{作者简历及攻读学位期间发表的学术论文与研究成果}{103}{appendix*.101}
-\contentsline {chapter}{致谢}{105}{appendix*.105}
+\contentsline {chapter}{参考文献}{95}{section*.101}
