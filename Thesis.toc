@@ -12,7 +12,7 @@
 \contentsline {subsection}{\numberline {2.3.1}陆地地表风速长期线性趋势的空间特征}{16}{subsection.2.3.1}
 \contentsline {subsection}{\numberline {2.3.2}百分位风速长期线性趋势}{18}{subsection.2.3.2}
 \contentsline {subsection}{\numberline {2.3.3}四季风速长期线性趋势}{20}{subsection.2.3.3}
-\contentsline {subsection}{\numberline {2.3.4}不同海拔站点风速长期线性趋势}{22}{subsection.2.3.4}
+\contentsline {subsection}{\numberline {2.3.4}不同海拔站点风速长期线性趋势}{23}{subsection.2.3.4}
 \contentsline {section}{\numberline {2.4}北半球陆地地表风速趋势的年代际变化}{24}{section.2.4}
 \contentsline {section}{\numberline {2.5}北半球陆地地表风速长期变化的不确定性分析}{26}{section.2.5}
 \contentsline {subsection}{\numberline {2.5.1}风速长期线性趋势的不确定性}{26}{subsection.2.5.1}
@@ -23,7 +23,7 @@
 \contentsline {section}{\numberline {3.2}资料和方法}{32}{section.3.2}
 \contentsline {section}{\numberline {3.3}对流层风速长期变化}{33}{section.3.3}
 \contentsline {subsection}{\numberline {3.3.1}对流层风速长期线性趋势}{33}{subsection.3.3.1}
-\contentsline {subsection}{\numberline {3.3.2}对流层风速年代际变化}{38}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.2}对流层风速年代际变化}{36}{subsection.3.3.2}
 \contentsline {section}{\numberline {3.4}气压场变化的影响}{42}{section.3.4}
 \contentsline {section}{\numberline {3.5}大尺度海温和环流系统变化的影响}{43}{section.3.5}
 \contentsline {section}{\numberline {3.6}本章小结}{47}{section.3.6}
@@ -35,7 +35,7 @@
 \contentsline {subsection}{\numberline {4.3.2}数值试验}{55}{subsection.4.3.2}
 \contentsline {section}{\numberline {4.4}植被变化的影响}{61}{section.4.4}
 \contentsline {subsection}{\numberline {4.4.1}基于NDVI和风速观测数据的统计学分析}{61}{subsection.4.4.1}
-\contentsline {subsection}{\numberline {4.4.2}数值试验}{61}{subsection.4.4.2}
+\contentsline {subsection}{\numberline {4.4.2}数值试验}{62}{subsection.4.4.2}
 \contentsline {section}{\numberline {4.5}大气稳定度变化的影响}{67}{section.4.5}
 \contentsline {section}{\numberline {4.6}本章小结}{67}{section.4.6}
 \contentsline {chapter}{\numberline {第5章\hspace {.3em}}北半球陆地地表风速长期变化对风能资源的影响}{69}{chapter.5}
@@ -50,3 +50,5 @@
 \contentsline {section}{\numberline {6.2}问题与展望}{93}{section.6.2}
 \contentsline {section}{\numberline {6.3}本文主要创新点}{94}{section.6.3}
 \contentsline {chapter}{参考文献}{95}{section*.101}
+\contentsline {chapter}{作者简历及攻读学位期间发表的学术论文与研究成果}{105}{appendix*.103}
+\contentsline {chapter}{致谢}{107}{appendix*.107}

@@ -5,7 +5,7 @@
 
 第\ref{chap:drivingforceonwind}章从大气运动驱动力变化的角度分析了陆地地表风速长期变化的原因，本章将从大气运动阻力变化的角度进行分析。
 
-土地利用的变化是大气运动阻力变化的主要原因之一。如第\ref{chap:intro}章所述，已有许多相关研究分析了土地利用变化对于陆地地表风速的影响\citep{vautard2010northern, wu2016estimating, kalnay2003impact, guo2011changes}。以往的研究主要采用对比城市与乡村站点风速变化，建立参考序列与观测序列对比，或是建立简化动力模型和数值模拟的方法。其中，许多以往研究将观测站点分为城市站点和乡村站点（通常是基于人口），通过比较两类站点的风速趋势差别来确定城市化对于风速的影响\citep{guo2011changes}。这种方法能够成立基于以下假设：城市站点周边建设用地增加总是显著快于乡村站点周边，而同时乡村站点周边建设用地增加几乎可以忽略，即人口多的地区的城市化速度显著快于人口少的地区。然而这个假设存在一定问题，更好的方式是通过计算城市人口或建设用地的动态变化来确定城市化的速度。此外，也有研究通过建立不受土地利用变化影响的参考序列，并对比观测序列来考察土地利用变化的影响。有些再分析资料（如NCEP/NCAR）没有同化陆地观测资料，因而被认为可以作为参考序列\citep{kalnay2003impact}。\citet{zha2017effects}将此思路用于了土地利用变化对中国东部地区风速的影响。这种方法能一定程度上反映土地变化的作用，但即便同样是没有同化地表风速观测的再分析资料之间，对于地表风速变化也存在很大分歧（参见第\ref{chap:SpatiotemporalCharacteristics}章），因而这种方法的可靠性也在疑问。另外一种方式是利用简化动力学模型（形式类似于第\ref{chap:intro}章公式 \ref{eq:winddynmaic}），将土地利用的影响简化为拖拽系数的变化（例如\citet{wu2016estimating}），这种简化不一定能够代表土地利用变化对于边界层内湍流混合过程的复杂影响，因而对分析结果造成一定的不确定性。也有研究尝试用数值模拟的手段进行研究，但这些研究多是采用假设的土地利用变化情景而不是真实的土地利用变化进行研究（例如\citet{vautard2010northern}）。由此，为了克服前人研究的不足，本章先是利用动态的土地利用数据与风速观测数据进行统计分析，然后设计数值试验考察真实的土地利用变化对于风速的影响。
+土地利用的变化是大气运动阻力变化的主要原因之一。如第\ref{chap:intro}章所述，已有许多相关研究分析了土地利用变化对于陆地地表风速的影响\citep{vautard2010northern, wu2016estimating, kalnay2003impact, guo2011changes}。以往的研究主要采用对比城市与乡村站点风速变化，建立参考序列与观测序列对比，或是建立简化动力模型和数值模拟的方法。其中，许多以往研究将观测站点分为城市站点和乡村站点（通常是基于人口），通过比较两类站点的风速趋势差别来确定城市化对于风速的影响\citep{guo2011changes}。这种方法能够成立基于以下假设：城市站点周边建设用地增加总是显著快于乡村站点周边，而同时乡村站点周边建设用地增加几乎可以忽略，即人口多的地区的城市化速度显著快于人口少的地区。然而这个假设存在一定问题，更好的方式是通过计算城市人口或建设用地的动态变化来确定城市化的速度。此外，也有研究通过建立不受土地利用变化影响的参考序列，并对比观测序列来考察土地利用变化的影响。有些再分析资料（如NCEP/NCAR）没有同化陆地观测资料，因而被认为可以作为参考序列\citep{kalnay2003impact}。\citet{zha2017effects}将此思路用于了土地利用变化对中国东部地区风速的影响。这种方法能一定程度上反映土地变化的作用，但即便同样是没有同化地表风速观测的再分析资料之间，对于地表风速变化也存在很大分歧（参见第\ref{chap:SpatiotemporalCharacteristics}章），因而这种方法的可靠性也在疑问。另外一种方式是利用简化动力学模型（形式类似于第\ref{chap:intro}章公式 \ref{eq:winddynmaic}），将土地利用的影响简化为拖拽系数的变化（例如\citet{wu2016estimating}），这种简化不一定能够代表土地利用变化对于边界层内湍流混合过程的复杂影响，因而对分析结果造成一定的不确定性。也有研究尝试用数值模拟的手段进行研究，但这些研究多是采用假设的土地利用变化情景而不是真实的土地利用变化进行研究（例如\citet{vautard2010northern}）。由此，为了克服前人研究的不足，本章先是利用动态的土地利用数据与风速观测数据进行统计分析，然后设计数值试验考察真实的土地利用变化对于风速的影响。由于模拟城市化、植被变化等对气候的影响需要很高分辨率（1～5 $km$ 水平分辨率），对计算资源的消耗巨大，因而难以进行大尺度的模拟。因此，本章的数值试验选取在城市化和植被变化明显的代表性区域进行。
 
 大气运动的动量由边界层以上的自由大气向边界层内传递主要依赖湍流混合过程。垂直温度递减率是影响湍流强度的主要变量之一，原因是垂直温度递减率的改变会引起大气稳定度变化，当下层增温超过上层时气块会在浮力的作用下形成不稳定运动\citep{J2004An}。\citet{gaffen2000multidecadal}发现，1979-2000年间地表附近的增暖快于对流层低层，表明边界层稳定度增加。据我所知，目前还没有研究分析近几十年来大尺度的边界层垂直温度递减率变化，本章将对这个问题进行分析。
 
@@ -27,9 +27,9 @@ MODIS12Q1土地利用数据集\citep{sullamenashe2019hierarchical}由美国宇�
 \begin{equation} \label{eq:ndvi}
 NDVI = \frac{NIR - VIS}{NIR + VIS}
 \end{equation} ~\\
-其中NIR表示近红外光反射率，VIS表示可见光反射率。健康的植被会吸收大部分可见光，而反射大部分近红外光，然而不健康或者稀疏的植被会反射更多可见光和更少近红外光。NDVI的范围是-1 \textasciitilde 1，当没有绿叶存在时NDVI接近与0，当绿叶密度非常高时NDVI接近1。本章使用1982和2015年NDVI数据分析植被变化与风速长期变化的关系。
+其中NIR表示近红外光反射率，VIS表示可见光反射率。健康的植被会吸收大部分可见光，而反射大部分近红外光，然而不健康或者稀疏的植被会反射更多可见光和更少近红外光。NDVI的范围是-1 \textasciitilde 1，当没有绿叶存在时NDVI接近于0，当绿叶密度非常高时NDVI接近1。本章使用1982和2015年NDVI数据分析植被变化与风速长期变化的关系。
 
-HadGHCND全球地表温度观测数据集\citep{caesar2006large-scale}由哈德莱中心制作，包含全球1950年至今2.5纬度$\times$3.75经度分辨率日最高和最低温度观测数据。此数据集由NCEI等全球历史气候网络（GHCN）日观测数据集制作而成，制作过程中包含了质量控制步骤以减少错误和可疑数据等影响，并使用角度-距离加权算法将站点数据差值到格点。本章使用1979-2012年地表日最高气温分析边界层日间垂直温度递减率变化。
+HadGHCND全球地表温度观测数据集\citep{caesar2006large-scale}由哈德莱中心制作，包含全球1950年至今2.5纬度$\times$3.75经度分辨率日最高和最低温度观测数据。此数据集由NCEI等全球历史气候网络（GHCN）日观测数据集制作而成，制作过程中包含了质量控制步骤以减少错误和可疑数据等影响，并使用角度-距离加权算法将站点数据插值到格点。本章使用1979-2012年地表日最高气温分析边界层日间垂直温度递减率变化。
 
 HadAT全球对流层温度数据集\citep{thorne2005revisiting}由哈德莱中心制作，包含全球1985-2012年5纬度$\times$10经度分辨率对流层850、700、500、300、200、150、100、50和30 $hPa$共9个层次的月平均温度。此数据集由676个探空站点数据制作而成，由于这些探空站点多分布于北半球，因而此数据集有效数据也多集中于北半球。制作过程中使用了质量控制步骤来减小仪器和观测方式等变化的影响。本章使用了1979-2012年850 $hPa$温度数据分析边界层垂直温度递减率的变化。
 
@@ -77,15 +77,15 @@ RMSD = \frac{\frac{1}{N} \sum_{n=1}^{N} \left( c_{n} - \bar{c} \right) \left( d_
     \label{fig:windunderdiffurban}
 \end{figure}
 
-使用Atlas of Urban Expansion数据计算城市建设面积自20世纪80年代至21世纪前10年的变化率，发现所有200个城市建设面积都有增加，其中62\%增加速度超过50\% 每十年，36\%超过100\% 每十年，增加最快的中国江苏盱城和孟加拉国Rajshahi增加速度超过4000\% 每十年。相比之下，北美洲和欧洲城市建设面积增加速度较慢，原因是欧美发达国家的城市化在更早时候就已经基本完成，而亚洲的中国、印度和东南亚各国，近30多年来城市化进程非常迅速（图 \ref{fig:cityexpansionrate}）。对比使用NCEI-CMDC风速数据计算的1979-2016年归一化风速趋势，发现亚洲整体风速下降速度大于欧洲和北美（图 \ref{fig:normalizedwindtrend}），似乎预示着城市化在其中起到了一定作用。选择距离城市中心0.15度（约15 $km$）以内的观测站点，将地表风速趋势与城市建设面积变化速度对比，发现二者有显著的负相关（p < 0.01），即城市扩张越快的地区，风速越趋向于减小（图 \ref{fig:cityexpansionvswindchange}）。对比上述城市中心附近站点中城市扩张速度在前50\%的风速趋势，所有城市中心附近站点风速趋势和所有站点风速趋势发现，所有城市中心附近站点和所有站点平均风速趋势接近，分别为0.1 和 0.09 $m ~ s^{-1}$每十年，相比之下快速扩张城市周边站点平均风速趋势则得多，达到0.15 $m ~ s^{-1}$每十年（图 \ref{fig:windunderdiffurban}）。由此说明城市化进程会使得附近的风速显著减小。
+使用Atlas of Urban Expansion数据计算城市建设面积自20世纪80年代至21世纪前10年的变化率，发现所有200个城市建设面积都有增加，其中62\%增加速度超过50\% 每十年，36\%超过100\% 每十年，增加最快的中国江苏盱城和孟加拉国Rajshahi增加速度超过4000\% 每十年。相比之下，北美洲和欧洲城市建设面积增加速度较慢，原因是欧美发达国家的城市化在更早时候就已经基本完成，而亚洲的中国、印度和东南亚各国，近30多年来城市化进程非常迅速（图 \ref{fig:cityexpansionrate}）。对比使用NCEI-CMDC风速数据计算的1979-2016年归一化风速趋势，发现亚洲整体风速下降速度大于欧洲和北美（图 \ref{fig:normalizedwindtrend}），似乎预示着城市化在其中起到了一定作用。选择距离城市中心0.15度（约15 $km$）以内的观测站点，将地表风速趋势与城市建设面积变化速度对比，发现二者有显著的负相关（p < 0.01），即城市扩张越快的地区，风速越趋向于减小（图 \ref{fig:cityexpansionvswindchange}）。对比上述城市中心附近站点中城市扩张速度在前50\%的风速趋势，所有城市中心附近站点风速趋势和所有站点风速趋势发现，所有城市中心附近站点和所有站点平均风速趋势接近，分别为-0.1 和 -0.09 $m ~ s^{-1}$每十年，相比之下快速扩张城市周边站点风速趋势则小得多，达到-0.15 $m ~ s^{-1}$每十年（图 \ref{fig:windunderdiffurban}）。由此说明城市化进程会使得附近的风速显著减小。
 
 \subsection{数值试验}
 
-为了进一步验证城市化与风速变化的关系，使用WRF-ARW 4.0进行数值试验，选择中国东南沿海的珠江入海口附近的珠江三角洲作为模拟区域（图 \ref{fig:PRDlocation}），因为它包含广州、深圳、珠海、香港、澳门等城市，是中国中国近30多年来城市化最快的地区之一（图 \ref{fig:PRDcityexpand}），而中国是全球近30多年来城市化最快的国家之一。此地区地势较为平坦，海拔高度基本在800 $m$以下 （图 \ref{fig:PRDlocation}）。
+为了进一步验证城市化与风速变化的关系，使用WRF-ARW 4.0进行数值试验，选择中国东南沿海的珠江入海口附近的珠江三角洲作为模拟区域（图 \ref{fig:PRDlocation}），因为它包含广州、深圳、珠海、香港、澳门等城市，是中国近30多年来城市化最快的地区之一（图 \ref{fig:PRDcityexpand}），而中国是全球近30多年来城市化最快的国家之一。此地区地势较为平坦，海拔高度基本在800 $m$以下 （图 \ref{fig:PRDlocation}）。
 
 \begin{figure}[!htbp]
     \centering
-    \includegraphics[width=1\textwidth]{珠江三角洲地理位置}
+    \includegraphics[width=0.9\textwidth]{珠江三角洲地理位置}
     \bicaption{ 珠江三角洲地理位置}{Location of the Pearl River Delta.}
     \label{fig:PRDlocation}
 \end{figure}
@@ -97,7 +97,7 @@ RMSD = \frac{\frac{1}{N} \sum_{n=1}^{N} \left( c_{n} - \bar{c} \right) \left( d_
     \label{fig:PRDcityexpand}
 \end{figure}
 
-将模式设置为三层双向嵌套，空间分辨率分别为30 $km$、10 $km$和3.3 $km$（图 \ref{fig:PRDmodeldomain}），垂直包含40个层次，其中边界层内（1km高度以下）10个层次；时间步长为100 $s$；微物理参数化方案为WRF Single-Moment 6-class scheme；积云参数化方案为Grell 3D，在较高分辨率的两层网格关闭积云参数化；云量使用Xu-Randall method；长波辐射参数化方案为RRTM scheme，短波辐射参数化方案为Dudhia scheme；边界层采用BouLac PBL，地面层采用Eta similarity，陆面模式选择Noah-MP；城市参数化方案采用Building Environment Parameterization (BEP)。
+将模式设置为三层双向嵌套，空间分辨率分别为30 $km$、10 $km$和3.3 $km$（图 \ref{fig:PRDmodeldomain}），垂直包含40个层次，其中边界层内（1km高度以下）10个层次；时间步长为100 $s$；微物理参数化方案为WRF Single-Moment 6-class scheme \citep{hong2006the}；积云参数化方案为Grell 3D \citep{grell1993prognostic, grell2002a}，在较高分辨率的两层网格关闭积云参数化；云量使用Xu-Randall method \citep{xu1996a}；长波辐射参数化方案为RRTM scheme \citep{mlawer1997radiative}，短波辐射参数化方案为Dudhia scheme \citep{dudhia1989numerical}；边界层采用BouLac PBL \citep{bougeault1989parameterization}，陆面模式选择Noah-MP \citep{niu2011the}；城市参数化方案采用Building Environment Parameterization (BEP) \citep{salamanca2010a}。
 
 \begin{figure}[!htbp]
     \centering
@@ -118,14 +118,14 @@ RMSD = \frac{\frac{1}{N} \sum_{n=1}^{N} \left( c_{n} - \bar{c} \right) \left( d_
 
 \end{enumerate}
 
-对以上三组模拟，气象场采用FNL2015年6月和2015年12月（分别代表珠江三角洲雨季和旱季）1 $\times$ 1度6小时分辨率物理量场，经确认，在模拟时段内无台风和寒潮过程发生。
-
 \begin{figure}[!htbp]
     \centering
     \includegraphics[width=0.5\textwidth]{珠江三角洲测站位置}
     \bicaption{ 珠江三角洲测站位置}{Observation stations in the Pearl River Delta.}
     \label{fig:PRDobssites}
 \end{figure}
+
+对以上三组模拟，气象场采用FNL2015年6月和2015年12月（分别代表珠江三角洲雨季和旱季）1 $\times$ 1度6小时分辨率物理量场，经确认，在模拟时段内无台风和寒潮过程发生。模式积分过程分为3段，每段约10天。
 
 使用模拟\ref{sim:1.3}结果对比观测进行模式性能评估，珠江三角洲及周边区域地面观测站点位置和信息可在图 \ref{fig:PRDobssites}和表 \ref{tab:PRDsiteinfo}找到。对比模拟与观测结果，发现模拟风速普遍大于观测，这在以往的研究中也被发现\citep{zhang2010modeling, yu2015evaluation, zha2019numerical}。为了减少这种模拟偏差的影响，在模拟结果的分析时，应使用归一化风速变化而不是风速变化的绝对值。模拟与观测风速体现出了很好的相关，说明模拟结果可以很大程度上抓住风速的时间变化。RMSD结果对比以往研究\citep{zhang2010modeling, zha2019numerical}也表明模式对珠江三角洲区域风速有较好的模拟效果（表 \ref{tab:PRDsiteinfo}）。
 
@@ -168,28 +168,28 @@ RMSD = \frac{\frac{1}{N} \sum_{n=1}^{N} \left( c_{n} - \bar{c} \right) \left( d_
     \end{minipage}
 \end{table}
 
-\begin{figure}[!t]
+\begin{figure}[!htbp]
     \centering
     \includegraphics[width=0.9\textwidth]{城市化对地表风速的影响}
     \bicaption{ 城市化对地表风速的影响（$m ~ s^{-1}$）。a）使用2015年6月气象场模拟结果，b）使用2015年12月气象场模拟结果，矢量箭头为对应时间背景风矢量。}{Impact of urbanization on surface wind speed (in $m ~ s^{-1}$). a)Model simulation using June 2015 meteorological fields, b)Model simulation using December 2015 meteorological fields, vectors are background wind vectors during corresponding periods.}
     \label{fig:urbanizationonwind}
 \end{figure}
 
-\begin{figure}[!b]
+\begin{figure}[!htbp]
     \centering
     \includegraphics[width=0.9\textwidth]{珠江三角洲模拟结果与观测对比}
     \bicaption{ 珠江三角洲模拟与观测风速变化（变化率）。a）模拟结果，b）观测结果。}{Simulated and observed wind speed change in the Pearl River Delta (in $changing ～ rate$). a)Simulation, b)Observation.}
     \label{fig:wrfvsobs}
 \end{figure}
 
-将模拟\ref{sim:1.2} 与模拟\ref{sim:1.1} 的模拟结果相减，得到城市建设面积变化对于地表风速的影响。发现相对20世纪70年代末，珠江三角洲在2015年城市化状况下风速显著偏小，城市群所在区域风速差可达 1 $m ~ s^{-1}$以上。同时，城市群下风向地区风速也表现出偏小，6月珠江三角洲盛行偏南风，城市群北部有风速偏小区域；12月珠江三角洲盛行偏北风，城市群南部有风速偏小区域（图 \ref{fig:urbanizationonwind}）。将两个月模拟结果平均，并差值到6个观测站点（图 \ref{fig:wrfvsobs} b) 红框内），得到风速平均减小了11.6\%，相比之下，观测风速在1979-2016平均减小了33.4\%，由此可得城市化对于风速减小的贡献达到35\%（图 \ref{fig:wrfvsobs}）。此外，城市化对于风速的影响主要体现在大风，2 $m ~ s^{-1}$以下风速变化很小（图 \ref{fig:windPDF}）。
-
 \begin{figure}[!htbp]
     \centering
-    \includegraphics[width=0.7\textwidth]{城市化对风速概率密度分布的影响}
+    \includegraphics[width=0.5\textwidth]{城市化对风速概率密度分布的影响}
     \bicaption{ 珠江三角洲20世纪70年代末与2015年城市化状况下风速概率密度分布。红色（蓝色）实线为使用20世纪70年代末城市化状况（2015年城市化状况）的模拟结果。}{Probability distribution function of wind speed in the Pearl River Delta under the built-up condition in late 1970s and 2015. Red (Blue) line is the simulation result using built-up condition in late 1970s (2015).}
     \label{fig:windPDF}
 \end{figure}
+
+将模拟\ref{sim:1.2} 与模拟\ref{sim:1.1} 的模拟结果相减，得到城市建设面积变化对于地表风速的影响。发现相对20世纪70年代末，珠江三角洲在2015年城市化状况下风速显著偏小，城市群所在区域风速差可达 1 $m ~ s^{-1}$以上。同时，城市群下风向地区风速也表现出偏小，6月珠江三角洲盛行偏南风，城市群北部有风速偏小区域；12月珠江三角洲盛行偏北风，城市群南部有风速偏小区域（图 \ref{fig:urbanizationonwind}）。将两个月模拟结果平均，并插值到6个观测站点（图 \ref{fig:wrfvsobs} b) 红框内），得到风速平均减小了11.6\%，相比之下，观测风速在1979-2016平均减小了33.4\%，由此可得城市化对于风速减小的贡献达到35\%（图 \ref{fig:wrfvsobs}）。此外，城市化对于风速的影响主要体现在大风，2 $m ~ s^{-1}$以下风速变化很小（图 \ref{fig:windPDF}）。
 
 \section{植被变化的影响}
 
@@ -220,7 +220,7 @@ RMSD = \frac{\frac{1}{N} \sum_{n=1}^{N} \left( c_{n} - \bar{c} \right) \left( d_
 
 \subsection{数值试验}
 
-使用WRF-ARW 4.0进行数值试验进一步验证植被与风速变化的关系，选择芬兰植被变化更为明显同时也是大部分观测站点所在的南芬兰作为模拟区域（图 \ref{fig:Finlandstations}）。将模式设置为四层双向嵌套，空间分辨率分别为30 $km$、10 $km$、3.3 $km$和1.1 $km$（图 \ref{fig:Finmodeldomain}），垂直包含40个层次，其中边界层内（1 $km$高度以下）10个层次；时间步长为100 $s$；微物理参数化方案为WRF Single-Moment 6-class scheme；积云参数化方案为Grell 3D，在较高分辨率的两层网格关闭积云参数化；云量使用Xu-Randall method；长波辐射参数化方案为RRTM scheme，短波辐射参数化方案为Dudhia scheme；边界层采用BouLac PBL，地面层采用Eta similarity，陆面模式选择Noah-MP。
+使用WRF-ARW 4.0进行数值试验进一步验证植被与风速变化的关系，选择芬兰植被变化更为明显同时也是大部分观测站点所在的南芬兰作为模拟区域（图 \ref{fig:Finlandstations}）。将模式设置为四层双向嵌套，空间分辨率分别为30 $km$、10 $km$、3.3 $km$和1.1 $km$（图 \ref{fig:Finmodeldomain}），垂直包含40个层次，其中边界层内（1 $km$高度以下）10个层次；时间步长为100 $s$；微物理参数化方案为WRF Single-Moment 6-class scheme \citep{hong2006the}；积云参数化方案为Grell 3D \citep{grell1993prognostic, grell2002a}，在较高分辨率的两层网格关闭积云参数化；云量使用Xu-Randall method \citep{xu1996a}；长波辐射参数化方案为RRTM scheme \citep{mlawer1997radiative}，短波辐射参数化方案为Dudhia scheme \citep{dudhia1989numerical}；边界层采用BouLac PBL \citep{bougeault1989parameterization}，陆面模式选择Noah-MP \citep{niu2011the}。
 
 \begin{figure}[!hbtp]
     \centering
@@ -246,7 +246,7 @@ RMSD = \frac{\frac{1}{N} \sum_{n=1}^{N} \left( c_{n} - \bar{c} \right) \left( d_
 
 \end{enumerate}
 
-对以上两组模拟，气象场采用FNL2001年1月和2001年6月（分别代表植被非生长季节和生长季节）1$\times$ 1度6小时分辨率物理量场。
+对以上两组模拟，气象场采用FNL2001年1月和2001年6月（分别代表植被非生长季节和生长季节）1$\times$ 1度6小时分辨率物理量场。模式积分过程分为4段，每段约7天。
 
 使用模拟\ref{sim:2.1}进行模式性能评估，南芬兰地区观测站信息参见表 \ref{tab:Finlandstationinfo}，表中除Oulu、Rovaniemi、Ivalo外，其余站点均分布在南芬兰。对比模拟与观测结果，与本章\ref{sec:urbanimpact}节类似，模拟风速大于观测风速，但二者相关系数较高，表明模拟能够较好的抓住风速随时间的变化，RMSD也较低，总体来看模式模拟效果良好。
 
@@ -283,7 +283,7 @@ RMSD = \frac{\frac{1}{N} \sum_{n=1}^{N} \left( c_{n} - \bar{c} \right) \left( d_
 \end{table}
 
 
-将模拟\ref{sim:2.2}与\ref{sim:2.1}相减，得到林地变化对于风速的影响。由林地变化造成的对风速影响中，主要的作用是风速减小（图 \ref{fig:woodlandonwind}），考虑到林地变化中的超过70\%是增加（图（芬兰林地变化）），得到这种模拟结果非常合理。1月林地变化对于风速变化的影响明显小于7月，因而1月很多落叶林地变得光秃，对风速的影响变小。将两个月的模拟结果平均，计算归一化风速变化，差值到观测站点，得到南芬兰8个站点林地对风速影响平均为-2.5\%。假设林地变化与风速变化满足线性关系（即 $\Delta(woodland ~ area) = \alpha \Delta(wind ~ speed)$），并以NDVI代替林地变化，得到1979-2016林地变化对风速的影响在8个站点平均为-5.1\%，而观测风速的变化为-5.8\%，即林地变化可以解释南芬兰风速变化的87\%。
+将模拟\ref{sim:2.2}与\ref{sim:2.1}相减，得到林地变化对于风速的影响。由林地变化造成的对风速影响中，主要的作用是风速减小（图 \ref{fig:woodlandonwind}），考虑到林地变化中的超过70\%是增加（图（芬兰林地变化）），得到这种模拟结果非常合理。1月林地变化对于风速变化的影响明显小于7月，因而1月很多落叶林地变得光秃，对风速的影响变小。将两个月的模拟结果平均，计算归一化风速变化，插值到观测站点，得到南芬兰8个站点林地对风速影响平均为-2.5\%。假设林地变化与风速变化满足线性关系（即 $\Delta(woodland ~ area) = \alpha \Delta(wind ~ speed)$），并以NDVI代替林地变化，得到1979-2016林地变化对风速的影响在8个站点平均为-5.1\%，而观测风速的变化为-5.8\%，即林地变化可以解释南芬兰风速变化的87\%。
 
 \begin{figure}[!t]
     \centering

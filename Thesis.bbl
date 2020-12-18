@@ -1,4 +1,4 @@
-\begin{thebibliography}{115}
+\begin{thebibliography}{124}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{#1}
 \expandafter\ifx\csname urlstyle\endcsname\relax\relax\else
@@ -110,6 +110,13 @@ BOLLASINA~M, MING~Y, RAMASWAMY~V.
   monsoon\allowbreak[J].
 \newblock Science, 2011, 334\penalty0 (6055):\penalty0 502-505.
 
+\bibitem[{Bougeault {\biband} Lacarrere(1989)Bougeault and
+  Lacarrere}]{bougeault1989parameterization}
+BOUGEAULT~P, LACARRERE~P.
+\newblock Parameterization of orography-induced turbulence in a mesobeta--scale
+  model\allowbreak[J].
+\newblock Monthly Weather Review, 1989, 117\penalty0 (8):\penalty0 1872-1890.
+
 \bibitem[{Caesar {\bibetal}(2006)Caesar, Alexander, and
   Vose}]{caesar2006large-scale}
 CAESAR~J, ALEXANDER~L~V, VOSE~R~S.
@@ -167,6 +174,13 @@ DIX~M, VOHRALIK~P, BI~D, et~al.
   initial results\allowbreak[J].
 \newblock Australian Meteorological and Oceanographic Journal, 2013,
   63\penalty0 (1):\penalty0 83-99.
+
+\bibitem[{Dudhia(1989)}]{dudhia1989numerical}
+DUDHIA~J.
+\newblock Numerical study of convection observed during the winter monsoon
+  experiment using a mesoscale two-dimensional model\allowbreak[J].
+\newblock Journal of the Atmospheric Sciences, 1989, 46\penalty0 (20):\penalty0
+  3077-3107.
 
 \bibitem[{Dufresne {\bibetal}(2013)Dufresne, Foujols, Denvil, Caubel, Marti,
   Aumont, Balkanski, Bekki, Bellenger, Benshila, et~al.}]{dufresne2013climate}
@@ -260,6 +274,19 @@ GORDON~H, ROTSTAYN~L, MCGREGOR~J, et~al.
 \newblock The csiro mk3 climate system model\allowbreak[M].
 \newblock CSIRO Atmospheric Research technical paper, 2002.
 
+\bibitem[{Grell(1993)}]{grell1993prognostic}
+GRELL~G~A.
+\newblock Prognostic evaluation of assumptions used by cumulus
+  parameterizations\allowbreak[J].
+\newblock Monthly Weather Review, 1993, 121\penalty0 (3):\penalty0 764-787.
+
+\bibitem[{Grell {\biband} Devenyi(2002)Grell and Devenyi}]{grell2002a}
+GRELL~G~A, DEVENYI~D.
+\newblock A generalized approach to parameterizing convection combining
+  ensemble and data assimilation techniques\allowbreak[J].
+\newblock Geophysical Research Letters, 2002, 29\penalty0 (14):\penalty0
+  38-1-38-4.
+
 \bibitem[{Griffies {\bibetal}(2011)Griffies, Winton, Donner, Horowitz, Downes,
   Farneti, Gnanadesikan, Hurlin, Lee, Liang, et~al.}]{griffies2011gfdl}
 GRIFFIES~S~M, WINTON~M, DONNER~L~J, et~al.
@@ -278,6 +305,13 @@ GUO~H, XU~M, HU~Q.
 HOLTON~J~R.
 \newblock An introduction to dynamic meteorology (4th ed.)\allowbreak[M].
 \newblock Elsevier Academic Press, MA, 2004.
+
+\bibitem[{Hong {\biband} Lim(2006)Hong and Lim}]{hong2006the}
+HONG~S, LIM~J~J.
+\newblock The wrf single-moment 6-class microphysics scheme
+  (wsm6)\allowbreak[J].
+\newblock Asia-pacific Journal of Atmospheric Sciences, 2006, 42\penalty0
+  (2):\penalty0 129-151.
 
 \bibitem[{Islam {\bibetal}(2011)Islam, Saidur, and Rahim}]{islam2011assessment}
 ISLAM~M~R, SAIDUR~R, RAHIM~N~A.
@@ -423,6 +457,13 @@ MCVICAR~T~R, RODERICK~M~L, DONOHUE~R~J, et~al.
   near-surface wind speeds: Implications for evaporation\allowbreak[J].
 \newblock Journal of Hydrology, 2012, 416:\penalty0 182-205.
 
+\bibitem[{Mlawer {\bibetal}(1997)Mlawer, Taubman, Brown, Iacono, and
+  Clough}]{mlawer1997radiative}
+MLAWER~E~J, TAUBMAN~S~J, BROWN~P~D, et~al.
+\newblock Radiative transfer for inhomogeneous atmospheres: Rrtm, a validated
+  correlated‐k model for the longwave\allowbreak[J].
+\newblock Journal of Geophysical Research, 1997, 102:\penalty0 16663-16682.
+
 \bibitem[{Molod {\bibetal}(2014)Molod, Takacs, Suarez, and
   Bacmeister}]{molod2014development}
 MOLOD~A, TAKACS~L~L, SUAREZ~M~J, et~al.
@@ -442,6 +483,14 @@ MONAHAN~A~H.
 \newblock The probability distribution of sea surface wind speeds. part ii:
   Dataset intercomparison and seasonal variability\allowbreak[J].
 \newblock Journal of Climate, 2006, 19\penalty0 (4):\penalty0 521-534.
+
+\bibitem[{Niu {\bibetal}(2011)Niu, Yang, Mitchell, Chen, Ek, Barlage, Kumar,
+  Manning, Niyogi, Rosero, et~al.}]{niu2011the}
+NIU~G, YANG~Z, MITCHELL~K~E, et~al.
+\newblock The community noah land surface model with multiparameterization
+  options (noah‐mp): 1. model description and evaluation with local‐scale
+  measurements\allowbreak[J].
+\newblock Journal of Geophysical Research, 2011, 116\penalty0 (12).
 
 \bibitem[{Ohlenforst(2019)}]{ohlenforst2019global}
 OHLENFORST~K.
@@ -499,6 +548,14 @@ SAKAMOTO~T~T, KOMURO~Y, NISHIMURA~T, et~al.
   circulation model\allowbreak[J].
 \newblock Journal of the Meteorological Society of Japan, 2012, 90\penalty0
   (3):\penalty0 325-359.
+
+\bibitem[{Salamanca {\bibetal}(2010)Salamanca, Krpo, Martilli, and
+  Clappier}]{salamanca2010a}
+SALAMANCA~F, KRPO~A, MARTILLI~A, et~al.
+\newblock A new building energy model coupled with an urban canopy
+  parameterization for urban climate simulations—part i. formulation,
+  verification, and sensitivity analysis of the model\allowbreak[J].
+\newblock Theoretical and Applied Climatology, 2010, 99:\penalty0 331-344.
 
 \bibitem[{Santer {\bibetal}(2011)Santer, Wigley, and
   Taylor}]{santer2011reproducibility}
@@ -706,6 +763,13 @@ XIN~X, ZHANG~L, ZHANG~J, et~al.
   model under rcp scenarios\allowbreak[J].
 \newblock Journal of the Meteorological Society of Japan, 2013, 91\penalty0
   (4):\penalty0 413-429.
+
+\bibitem[{Xu {\biband} Randall(1996)Xu and Randall}]{xu1996a}
+XU~K, RANDALL~D~A.
+\newblock A semiempirical cloudiness parameterization for use in climate
+  models\allowbreak[J].
+\newblock Journal of the Atmospheric Sciences, 1996, 53\penalty0 (21):\penalty0
+  3084-3102.
 
 \bibitem[{Xu {\bibetal}(2006)Xu, Chang, Fu, Qi, Robock, Robinson, and
   Zhang}]{xu2006steady}
